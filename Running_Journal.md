@@ -7,3 +7,4 @@ This paper serves as a running journal for this my microbiomics project. The ide
 ## 11/25/2020: Searching For Ideas
 I am trying to find a specific project in microbiomics that can be tackled with bioinformatics and systems-biology. I will continue my search until I find a reasonable question I can tackle, and then start tackling it. Most of my search has been in books and papers on Arxiv. If things look too aimless, I'll consider writing some emails to experts.  
 
+![Arxiv](https://github.com/gltrost/Microbiomics/blob/main/Images/Arxiv.png)
