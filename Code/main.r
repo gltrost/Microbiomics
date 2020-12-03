@@ -12,6 +12,6 @@ DNAseq <- function(x){
     if(!DNAseq%in%basepair) stringss<-"N"
   return(stringss)
   })), collapse = )
-}
 
-DNAseq("AAACCCGGGTTTYYY")
+
+DNAseq("AAACCCGGGTTTYYY"
