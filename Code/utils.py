@@ -7,4 +7,4 @@ def validseq(seq):
     return seq
 
 
-print validseq(["A"])
+print(validseq(["A"]))
