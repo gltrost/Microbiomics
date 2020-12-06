@@ -4,6 +4,6 @@ This my personal exploratory project dedicated to the study of microbiomics with
 # Installation
 There is no professional installation of this project yet. For now, you can clone this repo.
 
-## Also needed:
-1. Python 3.0 or higher
-2. R
+## Requirements:
+1. Python 3.4+
+2. R 4.0.3+
