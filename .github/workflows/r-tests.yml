@@ -5,7 +5,7 @@
 name: "R Test 1" #name of test
 on:
   pull_request:
-    branches: [main]
+    branches: [master]
 jobs:
   build:
     runs-on: ubuntu-18.04
