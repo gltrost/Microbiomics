@@ -11,26 +11,29 @@ library(VennDiagram)
 library(RColorBrewer)
 
 setwd("~/Microbiomics/Code")
-set <- read.csv('./data/venn-diagram-input.csv')
+genecards <- read.csv('./data/genecards_celiac_and_duodenum.csv',TRUE)
+ctd <- read.csv("./data/ctd_celiac_simple.csv",TRUE)
+ncbi <- read.csv("./data/ncbi_celiac.csv",TRUE)
+genecards_new <- genecards[ , c("Gene")]
+ctd_new <- ctd[ , c("Gene")]
+ncbi_new <- ncbi[ , c("Gene")]
 
 
 # Load library
 # library(VennDiagram)
 
 
-# Generate 3 sets of 200 words
-set1 <- set[ ,1]
-set2 <- set[ ,2]
-set3 <- set[ ,3]
+
 
 myCol <- brewer.pal(3, "Pastel2")
 
 # Chart
 venn.diagram(
-  x = list(set1, set2, set3),
-  category.names = c("Set 1" , "Set 2 " , "Set 3"),
-  filename = 'venn_diagramm.png',
+  x = list(genecards_new,ctd_new,ncbi_new),
+  category.names = c("Genecards" , "CTD", "NCBI"),
+  filename = './Images/venn_diagram.png',
   output=TRUE,
+  
   # Output features
   imagetype="png" ,
   height = 480 , 
@@ -41,8 +44,8 @@ venn.diagram(
   # Circles
   lwd = 2,
   lty = 'blank',
-  fill = myCol, 
-
+  fill = myCol,
+  
   # Numbers
   cex = .6,
   fontface = "bold",
