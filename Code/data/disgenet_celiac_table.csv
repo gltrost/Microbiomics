@@ -1,0 +1,528 @@
+Disease,Disease_id,Gene,Gene_id,UniProt,Gene_Full_Name,Protein_Class,N_diseases_g,DSI_g,DPI_g,pLI,Score_gda,EL_gda,EI_gda,N_PMIDs,N_SNPs_gda,First_Ref,Last_Ref
+Celiac Disease,C0007570,MYO9B,4650,Q13459,myosin IXB,,65,0.644,0.615,1,0.6,limited,0.792,24,4,2005,2017
+Celiac Disease,C0007570,HLA-DQB1,3119,P01920,"major histocompatibility complex, class II, DQ beta 1",Immune response,504,0.407,0.885,0.0089259,0.5,,0.912,34,0,1990,2019
+Celiac Disease,C0007570,HLA-DQA1,3117,P01909,"major histocompatibility complex, class II, DQ alpha 1",Immune response,427,0.416,0.846,0.023947,0.5,,0.946,93,2,1989,2019
+Celiac Disease,C0007570,BACH2,60468,Q9BYV9,BTB domain and CNC homolog 2,,130,0.539,0.731,0.99803,0.42,,1,7,4,2010,2019
+Celiac Disease,C0007570,THEMIS,387357,Q8N1K5,thymocyte selection associated,,32,0.682,0.654,1.96E-06,0.41,,1,3,2,2010,2016
+Celiac Disease,C0007570,ZMIZ1,57178,Q9ULJ6,zinc finger MIZ-type containing 1,,96,0.588,0.615,0.99937,0.4,,1,4,3,2010,2016
+Celiac Disease,C0007570,ICOSLG,23308,O75144,inducible T cell costimulator ligand,,69,0.601,0.654,0.00035482,0.4,,1,1,1,2010,2010
+Celiac Disease,C0007570,CTLA4,1493,P16410,cytotoxic T-lymphocyte associated protein 4,,722,0.369,0.923,0.94085,0.4,,0.9,30,1,1981,2016
+Celiac Disease,C0007570,IL15,3600,P40933,interleukin 15,,426,0.422,0.846,0.70859,0.4,,0.966,29,0,2000,2020
+Celiac Disease,C0007570,IFNG,3458,P01579,interferon gamma,,1519,0.288,0.962,0.47156,0.4,,0.968,31,0,1994,2020
+Celiac Disease,C0007570,IL21,59067,Q9HBE4,interleukin 21,,321,0.441,0.769,0.6254,0.4,,1,19,0,2007,2020
+Celiac Disease,C0007570,TGM2,7052,P21980,transglutaminase 2,Enzyme,315,0.445,0.808,6.81E-18,0.4,,0.982,170,0,1999,2020
+Celiac Disease,C0007570,HLA-DPB1,3115,P04440,"major histocompatibility complex, class II, DP beta 1",Immune response,324,0.453,0.923,5.33E-10,0.4,,0.882,17,0,1988,2017
+Celiac Disease,C0007570,ETS1,2113,P14921,"ETS proto-oncogene 1, transcription factor",Transcription factor,327,0.444,0.731,0.7816,0.4,,1,3,3,2010,2016
+Celiac Disease,C0007570,MMP3,4314,P08254,matrix metallopeptidase 3,Enzyme,473,0.408,0.885,5.74E-15,0.34,,1,5,0,1999,2018
+Celiac Disease,C0007570,CXCL10,3627,P02778,C-X-C motif chemokine ligand 10,Signaling,631,0.378,0.885,0.36865,0.34,,1,4,0,2018,2019
+Celiac Disease,C0007570,UBD,10537,O15205,ubiquitin D,,71,0.597,0.692,0.0070467,0.32,,1,2,0,2010,2018
+Celiac Disease,C0007570,MAGI2,9863,Q86UL8,"membrane associated guanylate kinase, WW and PDZ domain containing 2",,97,0.579,0.654,0.99943,0.32,,1,3,0,2008,2011
+Celiac Disease,C0007570,FCGR3A,2214,P08637,Fc fragment of IgG receptor IIIa,Cell adhesion,352,0.432,0.962,3.70E-06,0.32,,1,3,0,2009,2018
+Celiac Disease,C0007570,CD80,941,P33681,CD80 molecule,,233,0.475,0.769,0.010898,0.31,,1,2,0,2002,2010
+Celiac Disease,C0007570,TNFRSF9,3604,Q07011,TNF receptor superfamily member 9,,177,0.502,0.769,0.32153,0.31,,1,2,0,2014,2018
+Celiac Disease,C0007570,MMP12,4321,P39900,matrix metallopeptidase 12,Enzyme,216,0.484,0.885,,0.31,,1,2,0,2005,2018
+Celiac Disease,C0007570,CXCL11,6373,O14625,C-X-C motif chemokine ligand 11,Signaling,164,0.519,0.808,0.31408,0.31,,1,2,0,2018,2019
+Celiac Disease,C0007570,TFF1,7031,P04155,trefoil factor 1,Signaling,147,0.529,0.769,0.00088929,0.31,,1,2,0,2010,2018
+Celiac Disease,C0007570,APOB,338,P04114,apolipoprotein B,,339,0.453,0.808,1.92E-16,0.31,,1,2,1,2009,2018
+Celiac Disease,C0007570,PIWIL2,55124,Q8TC59,piwi like RNA-mediated gene silencing 2,,65,0.612,0.577,2.71E-08,0.3,,1,1,0,2018,2018
+Celiac Disease,C0007570,LPL,4023,P06858,lipoprotein lipase,Enzyme,290,0.474,0.808,1.27E-09,0.3,,1,1,0,2018,2018
+Celiac Disease,C0007570,UPB1,51733,Q9UBR1,beta-ureidopropionase 1,Enzyme,21,0.722,0.346,7.36E-12,0.3,,1,1,0,2018,2018
+Celiac Disease,C0007570,GBP5,115362,Q96PP8,guanylate binding protein 5,Enzyme modulator,13,0.78,0.385,8.11E-10,0.3,,1,1,0,2018,2018
+Celiac Disease,C0007570,SLC6A14,11254,Q9UN76,solute carrier family 6 member 14,Transporter,27,0.711,0.385,0.56419,0.3,,1,1,0,2018,2018
+Celiac Disease,C0007570,CCR4,1233,P51679,C-C motif chemokine receptor 4,G-protein coupled receptor,168,0.51,0.731,0.06863,0.3,,1,1,0,2010,2010
+Celiac Disease,C0007570,CAPN8,388743,A6NHC0,calpain 8,,5,0.861,0.192,1.25E-13,0.3,,1,1,0,2018,2018
+Celiac Disease,C0007570,UGT1A4,54657,P22310,UDP glucuronosyltransferase family 1 member A4,,84,0.595,0.654,5.98E-07,0.3,,1,1,0,2018,2018
+Celiac Disease,C0007570,LRAT,9227,O95237,lecithin retinol acyltransferase,,84,0.608,0.654,0.028354,0.3,,1,1,0,2018,2018
+Celiac Disease,C0007570,LCN2,3934,P80188,lipocalin 2,Enzyme,497,0.405,0.885,1.14E-09,0.3,,1,1,0,2018,2018
+Celiac Disease,C0007570,PCK1,5105,P35558,phosphoenolpyruvate carboxykinase 1,Kinase,73,0.608,0.538,8.75E-15,0.3,,1,1,0,2018,2018
+Celiac Disease,C0007570,ASAH2,56624,Q9NR71,N-acylsphingosine amidohydrolase 2,,26,0.716,0.538,0.0042718,0.3,,1,1,0,2018,2018
+Celiac Disease,C0007570,APOC3,345,P02656,apolipoprotein C3,,153,0.531,0.731,0.010024,0.3,,1,1,0,2018,2018
+Celiac Disease,C0007570,CD36,948,P16671,CD36 molecule,Receptor,351,0.446,0.846,1.09E-60,0.3,,1,1,0,2018,2018
+Celiac Disease,C0007570,IFI27,3429,P40305,interferon alpha inducible protein 27,,332,0.437,0.769,0.010698,0.3,,1,1,0,2018,2018
+Celiac Disease,C0007570,ACE,1636,P12821,angiotensin I converting enzyme,Enzyme,1082,0.328,0.923,1.03E-37,0.3,,1,1,0,2018,2018
+Celiac Disease,C0007570,RUNX3,864,Q13761,RUNX family transcription factor 3,Transcription factor,281,0.459,0.731,0.84295,0.3,,1,1,0,2010,2010
+Celiac Disease,C0007570,CXCL9,4283,Q07325,C-X-C motif chemokine ligand 9,Signaling,269,0.462,0.808,0.0029304,0.3,,1,1,0,2018,2018
+Celiac Disease,C0007570,TNFRSF14,8764,Q92956,TNF receptor superfamily member 14,,100,0.568,0.731,0.80752,0.3,,1,1,0,2010,2010
+Celiac Disease,C0007570,SOAT2,8435,O75908,sterol O-acyltransferase 2,Enzyme,25,0.716,0.308,5.58E-28,0.3,,1,1,0,2018,2018
+Celiac Disease,C0007570,S100A9,6280,P06702,S100 calcium binding protein A9,Calcium-binding protein,363,0.433,0.885,0.4777,0.3,,1,1,0,2018,2018
+Celiac Disease,C0007570,VNN1,8876,O95497,vanin 1,Enzyme,40,0.67,0.5,4.39E-06,0.3,,1,1,0,2018,2018
+Celiac Disease,C0007570,IL2,3558,P60568,interleukin 2,,950,0.336,0.885,0.47968,0.2,,1,20,1,1994,2020
+Celiac Disease,C0007570,CD28,940,P10747,CD28 molecule,,364,0.436,0.885,0.35779,0.19,,0.9,10,1,1999,2018
+Celiac Disease,C0007570,IL12A,3592,P29459,interleukin 12A,,261,0.491,0.808,0.04746,0.17,,0.857,7,0,2008,2016
+Celiac Disease,C0007570,SH2B3,10019,Q9UQQ2,SH2B adaptor protein 3,,212,0.527,0.692,0.00010289,0.16,,1,7,1,2009,2015
+Celiac Disease,C0007570,ICOS,29851,Q9Y6W8,inducible T cell costimulator,,193,0.502,0.731,0.031284,0.16,,1,7,1,2004,2010
+Celiac Disease,C0007570,TAGAP,117289,Q8N103,T cell activation RhoGTPase activating protein,Enzyme modulator,24,0.7,0.462,0.84621,0.16,,1,9,1,2008,2019
+Celiac Disease,C0007570,LPP,4026,Q93052,LIM domain containing preferred translocation partner in lipoma,Enzyme modulator,131,0.543,0.769,0.0071908,0.15,,0.75,8,3,2008,2017
+Celiac Disease,C0007570,HLA-DQA2,3118,P01906,"major histocompatibility complex, class II, DQ alpha 2",Immune response,58,0.617,0.769,1.01E-05,0.15,,1,7,2,2001,2019
+Celiac Disease,C0007570,IL23R,149233,Q5VWK5,interleukin 23 receptor,Signaling,306,0.466,0.769,0.00055961,0.14,,0.8,5,2,2008,2015
+Celiac Disease,C0007570,KIAA1109,84162,Q2LD37,KIAA1109,,86,0.603,0.654,3.26E-21,0.14,,1,7,6,2007,2016
+Celiac Disease,C0007570,IL2RA,3559,P01589,interleukin 2 receptor subunit alpha,Receptor,540,0.389,0.885,0.054709,0.13,,1,4,1,2008,2015
+Celiac Disease,C0007570,CCR3,1232,P51677,C-C motif chemokine receptor 3,G-protein coupled receptor,149,0.527,0.808,0.00012636,0.13,,1,7,4,2009,2016
+Celiac Disease,C0007570,ATG16L1,55054,Q676U5,autophagy related 16 like 1,,120,0.543,0.769,0.96452,0.12,,1,3,1,2008,2015
+Celiac Disease,C0007570,CIITA,4261,P33076,class II major histocompatibility complex transactivator,,149,0.536,0.808,1.36E-07,0.12,,1,3,1,2009,2012
+Celiac Disease,C0007570,FRMD4B,23150,Q9Y2L6,FERM domain containing 4B,,12,0.805,0.308,0.4539,0.11,,1,2,1,2010,2014
+Celiac Disease,C0007570,PUS10,150962,Q3MIT2,pseudouridine synthase 10,,17,0.736,0.346,7.88E-14,0.11,,1,4,2,2010,2012
+Celiac Disease,C0007570,MMEL1,79258,Q495T6,membrane metalloendopeptidase like 1,Enzyme,74,0.606,0.692,1.24E-22,0.11,,1,5,3,2010,2016
+Celiac Disease,C0007570,FUT2,2524,Q10981,fucosyltransferase 2,Enzyme,126,0.552,0.731,5.32E-14,0.11,,1,2,2,2012,2015
+Celiac Disease,C0007570,PPP1R12B,4660,O60237,protein phosphatase 1 regulatory subunit 12B,,19,0.769,0.269,0.00012038,0.11,,1,2,1,2013,2015
+Celiac Disease,C0007570,ZNF335,63925,Q9H4Z2,zinc finger protein 335,Transcription factor,45,0.711,0.462,6.89E-07,0.11,,1,1,1,2016,2016
+Celiac Disease,C0007570,SMAD3,4088,P84022,SMAD family member 3,Transcription factor,470,0.415,0.923,0.79796,0.11,,1,2,1,2015,2018
+Celiac Disease,C0007570,IL18R1,8809,Q13478,interleukin 18 receptor 1,Receptor,234,0.473,0.808,8.63E-06,0.11,,1,2,1,2008,2014
+Celiac Disease,C0007570,CD247,919,P20963,CD247 molecule,,140,0.539,0.731,0.016734,0.11,,1,2,1,2010,2014
+Celiac Disease,C0007570,TNPO3,23534,Q9Y5L0,transportin 3,Transporter,66,0.663,0.577,1.75E-06,0.1,,,0,0,,
+Celiac Disease,C0007570,ZFP36L1,677,Q07352,ZFP36 ring finger protein like 1,Nucleic acid binding,43,0.659,0.5,0.67406,0.1,,1,1,1,2011,2011
+Celiac Disease,C0007570,TCF4,6925,P15884,transcription factor 4,Transcription factor,378,0.464,0.846,0.99981,0.1,,,0,0,,
+Celiac Disease,C0007570,SUOX,6821,P51687,sulfite oxidase,,67,0.638,0.615,9.40E-07,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,UBASH3A,53347,P57075,ubiquitin associated and SH3 domain containing A,,43,0.638,0.538,1.05E-10,0.1,,1,2,1,2011,2016
+Celiac Disease,C0007570,ACACA,31,Q13085,acetyl-CoA carboxylase alpha,,241,0.48,0.846,1,0.1,,1,1,1,2014,2014
+Celiac Disease,C0007570,LINC02649,399715,,long intergenic non-protein coding RNA 2649,,10,0.792,0.308,,0.1,,1,3,2,2011,2016
+Celiac Disease,C0007570,STAT4,6775,Q14765,signal transducer and activator of transcription 4,Nucleic acid binding,316,0.471,0.769,0.7662,0.1,,1,4,4,2011,2016
+Celiac Disease,C0007570,STAT3,6774,P40763,signal transducer and activator of transcription 3,Nucleic acid binding,1193,0.32,0.923,1,0.1,,,0,0,,
+Celiac Disease,C0007570,LURAP1L,286343,Q8IV03,leucine rich adaptor protein 1 like,,15,0.736,0.269,0.025029,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,GPR35,2859,Q9HC97,G protein-coupled receptor 35,G-protein coupled receptor,102,0.587,0.654,0.0049273,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,TNFSF15,9966,O95150,TNF superfamily member 15,Signaling,143,0.531,0.692,0.0028159,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,WNT3,7473,P56703,Wnt family member 3,Signaling,140,0.536,0.808,0.87515,0.1,,1,1,1,2010,2010
+Celiac Disease,C0007570,PLEK,5341,P08567,pleckstrin,Cellular structure,83,0.588,0.731,0.001067,0.1,,1,1,1,2010,2010
+Celiac Disease,C0007570,AFF3,3899,P51826,AF4/FMR2 family member 3,Transcription factor,77,0.623,0.692,0.99996,0.1,,1,1,1,2016,2016
+Celiac Disease,C0007570,INS-IGF2,723961,F8WCM5,INS-IGF2 readthrough,,51,0.633,0.5,0.055811,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,CNTNAP2,26047,Q9UHC6,contactin associated protein 2,,203,0.53,0.846,2.87E-09,0.1,,,0,0,,
+Celiac Disease,C0007570,TNF,7124,P01375,tumor necrosis factor,Signaling,2724,0.231,0.962,0.8033,0.1,,0.92,25,1,1996,2020
+Celiac Disease,C0007570,POU2AF1,5450,Q16633,POU class 2 homeobox associating factor 1,,70,0.608,0.615,0.56553,0.1,,,0,0,,
+Celiac Disease,C0007570,PTEN,5728,P60484,phosphatase and tensin homolog,Enzyme,1349,0.305,0.923,0.25651,0.1,,,0,2,,
+Celiac Disease,C0007570,HECTD4,283450,Q9Y4D8,HECT domain E3 ubiquitin protein ligase 4,,55,0.7,0.462,1,0.1,,1,1,1,2016,2016
+Celiac Disease,C0007570,SLC9A4,389015,Q6AI14,solute carrier family 9 member A4,,9,0.89,0.154,8.29E-14,0.1,,1,1,1,2016,2016
+Celiac Disease,C0007570,INAVA,55765,Q3KP66,innate immunity activator,,18,0.743,0.346,0.00022109,0.1,,1,2,2,2011,2016
+Celiac Disease,C0007570,IGF2-AS,51214,Q6U949,IGF2 antisense RNA,,65,0.612,0.615,,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,ATXN2,6311,Q99700,ataxin 2,Nucleic acid binding,341,0.482,0.808,0.85289,0.1,,1,3,2,2008,2011
+Celiac Disease,C0007570,CARD9,64170,Q9H257,caspase recruitment domain family member 9,,103,0.566,0.654,8.15E-13,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,LINC01185,400957,,long intergenic non-protein coding RNA 1185,,13,0.743,0.346,,0.1,,1,1,1,2016,2016
+Celiac Disease,C0007570,ERAP2,64167,Q6P179,endoplasmic reticulum aminopeptidase 2,Enzyme,58,0.615,0.577,1.00E-28,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,ARHGAP31,57514,Q2M1Z3,Rho GTPase activating protein 31,,96,0.581,0.615,0.99999,0.1,,1,2,2,2010,2011
+Celiac Disease,C0007570,IL6,3569,P05231,interleukin 6,,2367,0.248,0.962,0.31536,0.1,,0.75,12,1,2001,2018
+Celiac Disease,C0007570,IL10,3586,P22301,interleukin 10,,1679,0.281,0.923,0.0058874,0.1,,0.769,13,0,1996,2018
+Celiac Disease,C0007570,IL17A,3605,Q16552,interleukin 17A,,1074,0.324,0.923,0.043049,0.1,,1,10,1,2009,2018
+Celiac Disease,C0007570,PTPN2,5771,P17706,protein tyrosine phosphatase non-receptor type 2,,134,0.538,0.692,0.99953,0.1,,1,4,3,2010,2016
+Celiac Disease,C0007570,IL12RB1,3594,P42701,interleukin 12 receptor subunit beta 1,Signaling,118,0.555,0.731,9.36E-15,0.1,,,0,0,,
+Celiac Disease,C0007570,PTPRK,5796,Q15262,protein tyrosine phosphatase receptor type K,Enzyme,34,0.686,0.385,0.90291,0.1,,1,1,3,2011,2011
+Celiac Disease,C0007570,C1orf141,400757,Q5JVX7,chromosome 1 open reading frame 141,,30,0.691,0.385,0.0032311,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,IRF1-AS1,441108,Q8N8D9,IRF1 antisense RNA 1,,44,0.67,0.385,0.0041687,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,FOXP3,50943,Q9BZS1,forkhead box P3,,688,0.368,0.846,0.99424,0.1,,0.8,10,0,2005,2018
+Celiac Disease,C0007570,ABCC6,368,O95255,ATP binding cassette subfamily C member 6,Transporter,181,0.54,0.654,5.62E-35,0.1,,,0,1,,
+Celiac Disease,C0007570,MYNN,55892,Q9NPC7,myoneurin,,21,0.722,0.423,0.57129,0.1,,1,1,1,2010,2010
+Celiac Disease,C0007570,NFIA,4774,Q12857,nuclear factor I A,Nucleic acid binding,95,0.599,0.808,0.99959,0.1,,1,2,1,2010,2016
+Celiac Disease,C0007570,HLA-DRB1,3123,P01911,"major histocompatibility complex, class II, DR beta 1",Immune response,1018,0.333,0.923,0.0010997,0.1,,0.913,23,0,1991,2018
+Celiac Disease,C0007570,SPIB,6689,Q01892,Spi-B transcription factor,Transcription factor,58,0.628,0.538,0.91231,0.1,,,0,0,,
+Celiac Disease,C0007570,NCF2,4688,P19878,neutrophil cytosolic factor 2,Enzyme,90,0.601,0.692,4.01E-07,0.1,,1,1,1,2016,2016
+Celiac Disease,C0007570,IRF4,3662,Q15306,interferon regulatory factor 4,Transcription factor,203,0.491,0.769,0.85677,0.1,,1,1,1,2011,2011
+Celiac Disease,C0007570,MST1,4485,P26927,macrophage stimulating 1,Enzyme,281,0.465,0.885,4.78E-19,0.1,,,0,0,,
+Celiac Disease,C0007570,MROH3P,647215,,"maestro heat like repeat family member 3, pseudogene",,5,0.89,0.192,,0.1,,1,1,1,2010,2010
+Celiac Disease,C0007570,IRF5,3663,Q13568,interferon regulatory factor 5,Transcription factor,226,0.489,0.731,0.0090365,0.1,,,0,0,,
+Celiac Disease,C0007570,LINC00993,101929520,,long intergenic non-protein coding RNA 993,,17,0.729,0.269,,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,NKD1,85407,Q969G9,NKD inhibitor of WNT signaling pathway 1,,58,0.621,0.385,0.99344,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,LINC01934,101927156,,long intergenic non-protein coding RNA 1934,,11,0.821,0.308,,0.1,,1,3,3,2010,2016
+Celiac Disease,C0007570,ATXN2L,11273,Q8WWM7,ataxin 2 like,Nucleic acid binding,30,0.695,0.423,1,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,RMI2,116028,Q96E14,RecQ mediated genome instability 2,,38,0.666,0.5,0.018953,0.1,,1,1,1,2010,2010
+Celiac Disease,C0007570,DAG1,1605,Q14118,dystroglycan 1,Receptor,230,0.498,0.808,0.98117,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,ADCY7,113,P51828,adenylate cyclase 7,,38,0.656,0.462,9.48E-07,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,LINC01250,101927554,,long intergenic non-protein coding RNA 1250,,14,0.743,0.231,,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,LRRK2,120892,Q5S007,leucine rich repeat kinase 2,Kinase,231,0.51,0.808,2.58E-30,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,NRXN1,9378,P58400;Q9ULB1,neurexin 1,,139,0.581,0.692,0.99964,0.1,,,0,0,,
+Celiac Disease,C0007570,SRCAP,10847,Q6ZRS2,Snf2 related CREBBP activator protein,,118,0.61,0.731,1,0.1,,,0,0,,
+Celiac Disease,C0007570,FNBP1,23048,Q96RU3,formin binding protein 1,,17,0.736,0.269,0.82844,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,TMEM187,8269,Q14656,transmembrane protein 187,,8,0.839,0.231,0.015717,0.1,,1,2,1,2011,2012
+Celiac Disease,C0007570,LINC00824,101927774,,long intergenic non-protein coding RNA 824,,24,0.695,0.346,,0.1,,1,1,1,2016,2016
+Celiac Disease,C0007570,GATD3A,8209,A0A0B4J2D5;P0DPI2,glutamine amidotransferase like class 1 domain containing 3A,,58,0.619,0.654,2.97E-05,0.1,,1,1,1,2011,2011
+Celiac Disease,C0007570,DLEU1,10301,O43261,deleted in lymphocytic leukemia 1,,109,0.569,0.692,0.47033,0.1,,1,1,1,2010,2010
+Celiac Disease,C0007570,IL12A-AS1,101928376,,IL12A antisense RNA 1,,99,0.633,0.654,,0.1,,1,4,5,2008,2016
+Celiac Disease,C0007570,ANKRD55,79722,Q3KP44,ankyrin repeat domain 55,,46,0.65,0.462,6.76E-08,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,RBM45,129831,Q8IUH3,RNA binding motif protein 45,,557,0.383,0.846,2.11E-10,0.1,,0.933,15,0,1991,2017
+Celiac Disease,C0007570,RUNX1,861,Q01196,RUNX family transcription factor 1,Transcription factor,412,0.425,0.808,0.65377,0.1,,1,1,1,2016,2016
+Celiac Disease,C0007570,SMG7,9887,Q92540,SMG7 nonsense mediated mRNA decay factor,,10,0.805,0.346,0.99998,0.1,,1,1,1,2016,2016
+Celiac Disease,C0007570,NKAIN2,154215,Q5VXU1,sodium/potassium transporting ATPase interacting 2,,25,0.716,0.462,0.023684,0.1,,1,1,1,2014,2014
+Celiac Disease,C0007570,NONOP2,100271700,,"non-POU domain containing, octamer-binding pseudogene 2",,6,0.861,0.231,,0.1,,1,1,1,2016,2016
+Celiac Disease,C0007570,ANKRD30A,91074,Q9BXX3,ankyrin repeat domain 30A,,36,0.678,0.346,2.69E-45,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,ELMO1,9844,Q92556,engulfment and cell motility 1,Signaling,72,0.608,0.615,0.89997,0.1,,1,5,4,2010,2016
+Celiac Disease,C0007570,MICA,100507436,Q29983,MHC class I polypeptide-related sequence A,,248,0.473,0.846,0.0049697,0.1,,0.8,10,0,2002,2015
+Celiac Disease,C0007570,CRB1,23418,P82279,crumbs cell polarity complex component 1,,116,0.57,0.654,5.63E-16,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,UQCRC2P1,100131327,,ubiquinol-cytochrome c reductase core protein 2 pseudogene 1,,1,1,0.077,,0.1,,1,2,1,2008,2014
+Celiac Disease,C0007570,ADGRL2,23266,O95490,adhesion G protein-coupled receptor L2,G-protein coupled receptor,33,0.682,0.385,1,0.1,,1,1,1,2015,2015
+Celiac Disease,C0007570,PHLDB1,23187,Q86UU1,pleckstrin homology like domain family B member 1,,20,0.722,0.423,0.10667,0.1,,1,1,1,2016,2016
+Celiac Disease,C0007570,C6orf99,100130967,Q4VX62,chromosome 6 open reading frame 99,,4,0.931,0.115,0.12728,0.1,,1,1,1,2016,2016
+Celiac Disease,C0007570,YDJC,150223,A8MPS7,YdjC chitooligosaccharide deacetylase homolog,,10,0.805,0.231,0.062374,0.1,,1,1,1,2010,2010
+Celiac Disease,C0007570,ACAD8,27034,Q9UKU7,acyl-CoA dehydrogenase family member 8,Enzyme,203,0.506,0.885,5.64E-14,0.09,,1,9,0,1995,2019
+Celiac Disease,C0007570,HP,3240,P00738,haptoglobin,Enzyme,464,0.412,0.885,1.74E-05,0.07,,1,7,0,2008,2019
+Celiac Disease,C0007570,PTPN22,26191,Q9Y2R2,protein tyrosine phosphatase non-receptor type 22,,400,0.438,0.846,3.49E-21,0.07,,0.857,7,1,2005,2017
+Celiac Disease,C0007570,CXCL8,3576,P10145,C-X-C motif chemokine ligand 8,Signaling,1254,0.31,0.962,0.00027377,0.06,,1,6,0,1997,2018
+Celiac Disease,C0007570,IL18,3606,Q14116,interleukin 18,,750,0.365,0.923,0.030717,0.06,,1,6,2,2006,2017
+Celiac Disease,C0007570,CFTR,1080,P13569,CF transmembrane conductance regulator,Ion channel,476,0.424,0.885,2.17E-58,0.06,,1,6,0,2019,2019
+Celiac Disease,C0007570,HLA-A,3105,P04439,"major histocompatibility complex, class I, A",,672,0.37,0.846,0.0013299,0.06,,1,6,2,1976,2008
+Celiac Disease,C0007570,CELIAC2,317782,,celiac disease 2,,40,0.653,0.577,,0.06,,1,6,0,1981,2009
+Celiac Disease,C0007570,AGA,175,P20933,aspartylglucosaminidase,Enzyme,143,0.57,0.808,4.28E-06,0.06,,0.833,6,0,1992,2019
+Celiac Disease,C0007570,TLR4,7099,O00206,toll like receptor 4,,1174,0.321,0.962,4.61E-09,0.06,,0.833,6,2,2006,2018
+Celiac Disease,C0007570,IL18RAP,8807,O95256,interleukin 18 receptor accessory protein,Receptor,41,0.674,0.577,0.0021796,0.06,,1,6,0,2008,2015
+Celiac Disease,C0007570,IL1B,3553,P01584,interleukin 1 beta,,1801,0.276,0.962,0.13005,0.06,,0.833,6,0,2005,2020
+Celiac Disease,C0007570,PREP,5550,P48147,prolyl endopeptidase,Enzyme,105,0.576,0.731,0.08025,0.06,,0.833,6,0,2005,2019
+Celiac Disease,C0007570,LINC01193,348120,,long intergenic non-protein coding RNA 1193,,91,0.565,0.692,,0.06,,0.833,6,0,2003,2013
+Celiac Disease,C0007570,HFE,3077,Q30201,homeostatic iron regulator,,415,0.436,0.846,2.56E-08,0.05,,1,5,2,2002,2019
+Celiac Disease,C0007570,IL4,3565,P05112,interleukin 4,,996,0.332,0.962,0.0047372,0.05,,1,5,0,1996,2020
+Celiac Disease,C0007570,HT,140805,,Hashimoto thyroiditis,,170,0.505,0.731,,0.05,,1,5,0,2017,2019
+Celiac Disease,C0007570,IL22,50616,Q9GZX6,interleukin 22,,551,0.393,0.885,0.00018843,0.05,,1,5,0,2010,2016
+Celiac Disease,C0007570,TRBV20OR9-2,6962,,T cell receptor beta variable 20/OR9-2 (non-functional),,456,0.403,0.923,,0.04,,1,4,0,1993,2019
+Celiac Disease,C0007570,STAT1,6772,P42224,signal transducer and activator of transcription 1,Nucleic acid binding,531,0.399,0.885,0.99999,0.04,,0.75,4,0,2003,2020
+Celiac Disease,C0007570,IL1A,3552,P01583,interleukin 1 alpha,,1002,0.333,0.962,0.0001602,0.04,,0.5,4,0,2005,2018
+Celiac Disease,C0007570,CD14,929,P08571,CD14 molecule,,551,0.392,0.885,4.88E-05,0.04,,1,4,0,2008,2017
+Celiac Disease,C0007570,TOR1A,1861,O14656,torsin family 1 member A,Chaperone,115,0.566,0.731,0.00050557,0.04,,1,4,0,2003,2019
+Celiac Disease,C0007570,NOS2,4843,P35228,nitric oxide synthase 2,,783,0.364,0.923,4.03E-15,0.04,,0.75,4,0,2002,2007
+Celiac Disease,C0007570,TLR2,7097,O60603,toll like receptor 2,,749,0.361,0.923,1.02E-06,0.04,,1,4,0,2007,2018
+Celiac Disease,C0007570,FLNB,2317,O75369,filamin B,,374,0.458,0.923,6.05E-10,0.04,,1,4,0,1993,1998
+Celiac Disease,C0007570,ICAM1,3383,P05362,intercellular adhesion molecule 1,,737,0.364,0.962,0.035295,0.04,,1,4,2,2003,2008
+Celiac Disease,C0007570,USO1,8615,O60763,USO1 vesicle transport factor,Transporter,153,0.522,0.885,0.33417,0.04,,1,4,0,1993,1998
+Celiac Disease,C0007570,NLRP3,114548,Q96P20,NLR family pyrin domain containing 3,,805,0.361,0.962,0.00081103,0.04,,1,4,2,2010,2016
+Celiac Disease,C0007570,HLA-C,3107,P10321,"major histocompatibility complex, class I, C",,435,0.415,0.846,1.57E-06,0.04,,1,4,0,1993,2014
+Celiac Disease,C0007570,SEC14L2,23541,O76054,SEC14 like lipid binding 2,,198,0.494,0.885,2.92E-08,0.04,,1,4,0,1993,1998
+Celiac Disease,C0007570,INS,3630,P01308,insulin,,405,0.445,0.923,0.30091,0.04,,1,4,0,1996,2008
+Celiac Disease,C0007570,FCGR2A,2212,P12318,Fc fragment of IgG receptor IIa,Cell adhesion,227,0.48,0.769,2.01E-06,0.04,,1,4,0,2007,2010
+Celiac Disease,C0007570,NXF1,10482,Q9UBU9,nuclear RNA export factor 1,Nucleic acid binding,141,0.531,0.885,0.9763,0.04,,1,4,0,1993,1998
+Celiac Disease,C0007570,KIR3DL1,3811,P43629,"killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 1",Receptor,231,0.475,0.769,8.36E-14,0.04,,1,4,0,2007,2015
+Celiac Disease,C0007570,DEFB1,1672,P60022,defensin beta 1,,177,0.509,0.808,0.4059,0.03,,0.667,3,0,2009,2010
+Celiac Disease,C0007570,DMD,1756,P11532,dystrophin,,484,0.423,0.923,1,0.03,,1,3,0,2004,2019
+Celiac Disease,C0007570,VDR,7421,P11473,vitamin D receptor,Nuclear receptor,852,0.352,0.885,1.68E-05,0.03,,0.667,3,0,2000,2019
+Celiac Disease,C0007570,TPO,7173,P07202,thyroid peroxidase,Enzyme,306,0.455,0.846,1.82E-21,0.03,,1,3,0,2018,2018
+Celiac Disease,C0007570,KLRC4-KLRK1,100528032,P26718,KLRC4-KLRK1 readthrough,,246,0.469,0.769,,0.03,,1,3,0,2004,2019
+Celiac Disease,C0007570,SLC11A2,4891,P49281,solute carrier family 11 member 2,Transporter,99,0.566,0.769,0.0066528,0.03,,1,3,0,2005,2017
+Celiac Disease,C0007570,NTS,4922,P30990,neurotensin,,184,0.517,0.769,3.85E-05,0.03,,1,3,0,2015,2018
+Celiac Disease,C0007570,RGS1,5996,Q08116,regulator of G protein signaling 1,Enzyme modulator,47,0.653,0.731,0.78178,0.03,,1,3,0,2009,2016
+Celiac Disease,C0007570,IRF1,3659,P10914,interferon regulatory factor 1,Transcription factor,257,0.468,0.769,0.9909,0.03,,1,3,0,2003,2017
+Celiac Disease,C0007570,BEST1,7439,O76090,bestrophin 1,Ion channel,292,0.465,0.885,1.82E-12,0.03,,1,3,0,2004,2019
+Celiac Disease,C0007570,IBD5,50941,,inflammatory bowel disease 5,,21,0.705,0.538,,0.03,,1,3,0,2004,2007
+Celiac Disease,C0007570,PON1,5444,P27169,paraoxonase 1,,496,0.409,0.885,9.81E-11,0.03,,1,3,0,2007,2018
+Celiac Disease,C0007570,GEM,2669,P55040,GTP binding protein overexpressed in skeletal muscle,,251,0.467,0.769,1.18E-08,0.03,,1,3,0,2007,2015
+Celiac Disease,C0007570,TGM6,343641,O95932,transglutaminase 6,,54,0.644,0.423,1.12E-24,0.03,,1,3,0,2015,2019
+Celiac Disease,C0007570,ISYNA1,51477,Q9NPH2,inositol-3-phosphate synthase 1,,168,0.51,0.769,2.49E-05,0.03,,1,3,0,2005,2007
+Celiac Disease,C0007570,MYD88,4615,Q99836,MYD88 innate immune signal transduction adaptor,Enzyme modulator,480,0.414,0.923,0.12443,0.03,,1,3,0,2006,2013
+Celiac Disease,C0007570,TAP2,6891,Q03519,"transporter 2, ATP binding cassette subfamily B member",Transporter,155,0.517,0.808,6.89E-11,0.03,,1,3,0,1992,1994
+Celiac Disease,C0007570,MMP1,4312,P03956,matrix metallopeptidase 1,Enzyme,589,0.385,0.885,7.72E-18,0.03,,1,3,0,1999,2005
+Celiac Disease,C0007570,KLRK1,22914,P26718,killer cell lectin like receptor K1,,255,0.467,0.769,6.98E-14,0.03,,1,3,0,2004,2019
+Celiac Disease,C0007570,CCR9,10803,P51686,C-C motif chemokine receptor 9,G-protein coupled receptor,90,0.573,0.692,0.0041986,0.03,,1,3,0,2001,2016
+Celiac Disease,C0007570,NFKB1,4790,P19838,nuclear factor kappa B subunit 1,Transcription factor,551,0.396,0.923,1,0.03,,0.333,3,0,2003,2006
+Celiac Disease,C0007570,EGFR,1956,P00533,epidermal growth factor receptor,Kinase,1394,0.295,0.885,0.36837,0.03,,1,3,0,2007,2013
+Celiac Disease,C0007570,CXCR3,2833,P49682,C-X-C motif chemokine receptor 3,G-protein coupled receptor,367,0.436,0.808,0.181,0.03,,1,3,0,2008,2019
+Celiac Disease,C0007570,HLA-DRB4,3126,P13762,"major histocompatibility complex, class II, DR beta 4",Immune response,87,0.565,0.846,,0.03,,0.667,3,0,2000,2017
+Celiac Disease,C0007570,HLA-G,3135,P17693,"major histocompatibility complex, class I, G",,279,0.461,0.769,1.37E-11,0.03,,0.667,3,0,2006,2015
+Celiac Disease,C0007570,HSPA1B,3304,P0DMV8;P0DMV9,heat shock protein family A (Hsp70) member 1B,,251,0.474,0.808,0.0053464,0.03,,0.667,3,0,1993,2010
+Celiac Disease,C0007570,HSPA1A,3303,P0DMV8;P0DMV9,heat shock protein family A (Hsp70) member 1A,,229,0.486,0.769,0.030228,0.03,,0.667,3,0,1993,2010
+Celiac Disease,C0007570,TGFB1,7040,P01137,transforming growth factor beta 1,Signaling,1558,0.287,0.962,0.03685,0.03,,1,3,0,2002,2020
+Celiac Disease,C0007570,MBL2,4153,P11226,mannose binding lectin 2,Receptor,563,0.39,0.846,0.0026836,0.03,,1,3,0,2002,2008
+Celiac Disease,C0007570,GOT2,2806,P00505,glutamic-oxaloacetic transaminase 2,,148,0.529,0.731,0.014233,0.03,,1,3,0,2017,2019
+Celiac Disease,C0007570,HMGB1,3146,P09429,high mobility group box 1,Nucleic acid binding,724,0.368,0.923,0.82035,0.03,,1,3,0,2017,2018
+Celiac Disease,C0007570,CNR2,1269,P34972,cannabinoid receptor 2,G-protein coupled receptor,197,0.509,0.846,6.54E-06,0.02,,1,2,3,2012,2018
+Celiac Disease,C0007570,REG1A,5967,P05451,regenerating family member 1 alpha,,264,0.467,0.846,1.35E-05,0.02,,1,2,0,2013,2014
+Celiac Disease,C0007570,CRP,1401,P02741,C-reactive protein,,1483,0.299,0.962,0.0036969,0.02,,1,2,0,2017,2020
+Celiac Disease,C0007570,CD19,930,P15391,CD19 molecule,,365,0.43,0.885,0.90496,0.02,,1,2,0,2008,2017
+Celiac Disease,C0007570,CX3CL1,6376,P78423,C-X3-C motif chemokine ligand 1,Signaling,243,0.478,0.808,0.60837,0.02,,1,2,0,2017,2019
+Celiac Disease,C0007570,SDC1,6382,P18827,syndecan 1,Extracellular structure,323,0.445,0.769,0.0084118,0.02,,1,2,0,2014,2017
+Celiac Disease,C0007570,HIF1A,3091,Q16665,hypoxia inducible factor 1 subunit alpha,Transcription factor,1044,0.327,0.923,0.9777,0.02,,0.5,2,0,2010,2017
+Celiac Disease,C0007570,CLDN2,9075,P57739,claudin 2,Cell-cell junction,97,0.575,0.692,0.70328,0.02,,1,2,0,2016,2020
+Celiac Disease,C0007570,CD38,952,P28907,CD38 molecule,Enzyme,473,0.407,0.885,2.31E-06,0.02,,1,2,0,2018,2019
+Celiac Disease,C0007570,MTHFR,4524,P42898,methylenetetrahydrofolate reductase,,985,0.337,0.885,3.21E-10,0.02,,1,2,1,2006,2014
+Celiac Disease,C0007570,ISG20,3669,Q96AZ6,interferon stimulated exonuclease gene 20,,414,0.414,0.846,0.002899,0.02,,1,2,0,2008,2009
+Celiac Disease,C0007570,TNFRSF8,943,P28908,TNF receptor superfamily member 8,,301,0.444,0.808,0.86407,0.02,,0,2,0,2010,2015
+Celiac Disease,C0007570,CD59,966,P13987,CD59 molecule (CD59 blood group),,262,0.469,0.808,0.60568,0.02,,1,2,0,2009,2009
+Celiac Disease,C0007570,PARD3,56288,Q8TEW0,par-3 family cell polarity regulator,,68,0.608,0.615,0.95577,0.02,,1,2,0,2008,2010
+Celiac Disease,C0007570,MLH1,4292,P40692,mutL homolog 1,Nucleic acid binding,526,0.399,0.808,3.41E-05,0.02,,1,2,0,2004,2010
+Celiac Disease,C0007570,DLG5,9231,Q8TDM6,discs large MAGUK scaffold protein 5,,36,0.686,0.5,0.99948,0.02,,0.5,2,1,2008,2011
+Celiac Disease,C0007570,KLRC2,3822,P26717,killer cell lectin like receptor C2,,50,0.636,0.731,4.87E-10,0.02,,1,2,0,2011,2019
+Celiac Disease,C0007570,ATP12A,479,P54707,ATPase H+/K+ transporting non-gastric alpha2 subunit,Transporter,102,0.575,0.769,7.13E-14,0.02,,1,2,0,2017,2019
+Celiac Disease,C0007570,MIF,4282,P14174,macrophage migration inhibitory factor,,455,0.412,0.885,0.012262,0.02,,1,2,0,2007,2008
+Celiac Disease,C0007570,ATP4A,495,P20648,ATPase H+/K+ transporting subunit alpha,Transporter,101,0.575,0.769,9.44E-12,0.02,,1,2,0,2017,2019
+Celiac Disease,C0007570,TLR9,54106,Q9NR96,toll like receptor 9,,457,0.411,0.885,9.81E-06,0.02,,1,2,0,2013,2018
+Celiac Disease,C0007570,VEGFA,7422,P15692,vascular endothelial growth factor A,Signaling,1899,0.266,0.923,2.41E-05,0.02,,1,2,0,2017,2019
+Celiac Disease,C0007570,TFRC,7037,P02786,transferrin receptor,Enzyme,359,0.437,0.885,6.99E-05,0.02,,1,2,0,2008,2017
+Celiac Disease,C0007570,DEFA5,1670,Q01523,defensin alpha 5,,34,0.695,0.423,5.19E-06,0.02,,1,2,0,2010,2017
+Celiac Disease,C0007570,CDR3,8163,,Cerebellar degeneration-related autoantigen-3,,233,0.472,0.808,,0.02,,0.5,2,0,1997,2020
+Celiac Disease,C0007570,HLA-DPA1,3113,P20036,"major histocompatibility complex, class II, DP alpha 1",Immune response,139,0.552,0.846,2.50E-06,0.02,,1,2,0,1990,2015
+Celiac Disease,C0007570,TG,7038,P01266,thyroglobulin,Enzyme modulator,240,0.48,0.808,2.88E-59,0.02,,1,2,0,2010,2018
+Celiac Disease,C0007570,FAS,355,P25445,Fas cell surface death receptor,,754,0.372,0.923,0.8117,0.02,,1,2,0,2004,2018
+Celiac Disease,C0007570,TJP1,7082,Q07157,tight junction protein 1,Cell-cell junction,91,0.576,0.692,1,0.02,,1,2,0,2004,2011
+Celiac Disease,C0007570,HLA-DRB3,3125,P79483,"major histocompatibility complex, class II, DR beta 3",Immune response,85,0.57,0.885,,0.02,,1,2,0,2006,2017
+Celiac Disease,C0007570,TNFAIP3,7128,P21580,TNF alpha induced protein 3,Enzyme,212,0.481,0.808,0.99972,0.02,,1,2,0,2009,2012
+Celiac Disease,C0007570,TSLP,85480,Q969D9,thymic stromal lymphopoietin,,220,0.486,0.808,0.0040357,0.02,,0.5,2,0,2018,2019
+Celiac Disease,C0007570,IFNA1,3439,P01562,interferon alpha 1,,662,0.371,0.923,,0.02,,1,2,0,2016,2018
+Celiac Disease,C0007570,IL5,3567,P05113,interleukin 5,,359,0.437,0.846,0.0056529,0.02,,1,2,0,1992,1994
+Celiac Disease,C0007570,TXN,7295,P10599,thioredoxin,,338,0.447,0.885,0.20119,0.02,,1,2,0,2017,2018
+Celiac Disease,C0007570,PAEP,5047,P09466,progestagen associated endometrial protein,Enzyme,397,0.43,0.846,3.11E-08,0.02,,1,2,0,2006,2017
+Celiac Disease,C0007570,CTNNB1,1499,P35222,catenin beta 1,,1368,0.303,0.885,0.99999,0.02,,1,2,0,2007,2018
+Celiac Disease,C0007570,IL12B,3593,P29460,interleukin 12B,Signaling,249,0.48,0.885,0.00011439,0.02,,1,2,0,2002,2003
+Celiac Disease,C0007570,IFNA13,3447,P01562,interferon alpha 13,,646,0.374,0.923,,0.02,,1,2,0,2016,2018
+Celiac Disease,C0007570,SCHIP1,29970,P0DPB3,schwannomin interacting protein 1,,5,0.839,0.308,0.98715,0.02,,0.5,2,0,2010,2016
+Celiac Disease,C0007570,CCK,885,P06307,cholecystokinin,,326,0.453,0.846,3.30E-05,0.02,,1,2,0,2002,2017
+Celiac Disease,C0007570,IL15RA,3601,Q13261,interleukin 15 receptor subunit alpha,,72,0.603,0.769,2.33E-06,0.02,,1,2,0,2017,2020
+Celiac Disease,C0007570,DEFB103B,55894,P81534,defensin beta 103B,,87,0.572,0.731,,0.01,,1,1,0,2010,2010
+Celiac Disease,C0007570,TGM1,7051,P22735,transglutaminase 1,Enzyme,117,0.565,0.769,2.25E-13,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,FTO,79068,Q9C0B1,FTO alpha-ketoglutarate dependent dioxygenase,,286,0.486,0.885,8.36E-08,0.01,,1,1,1,2015,2015
+Celiac Disease,C0007570,TIA1,7072,P31483,TIA1 cytotoxic granule associated RNA binding protein,,96,0.595,0.577,0.27493,0.01,,1,1,0,2005,2005
+Celiac Disease,C0007570,TIMP1,7076,P01033,TIMP metallopeptidase inhibitor 1,Enzyme modulator,603,0.38,0.885,0.4993,0.01,,1,1,0,1999,1999
+Celiac Disease,C0007570,TGFB3,7043,P10600,transforming growth factor beta 3,Signaling,230,0.498,0.808,0.98727,0.01,,1,1,0,2002,2002
+Celiac Disease,C0007570,TGFA,7039,P01135,transforming growth factor alpha,Signaling,376,0.432,0.885,0.71981,0.01,,1,1,0,2012,2012
+Celiac Disease,C0007570,TAP1,6890,Q03518,"transporter 1, ATP binding cassette subfamily B member",Transporter,181,0.5,0.808,5.34E-06,0.01,,1,1,0,1993,1993
+Celiac Disease,C0007570,VTCN1,79679,Q7Z7D3,V-set domain containing T cell activation inhibitor 1,Enzyme modulator,139,0.529,0.692,1.37E-12,0.01,,0,1,0,2012,2012
+Celiac Disease,C0007570,TRD,6964,,T cell receptor delta locus,,45,0.65,0.692,,0.01,,0,1,0,1996,1996
+Celiac Disease,C0007570,TCN2,6948,P20062,transcobalamin 2,,104,0.578,0.615,1.05E-06,0.01,,1,1,1,2012,2012
+Celiac Disease,C0007570,TFF3,7033,Q07654,trefoil factor 3,Signaling,163,0.518,0.885,0.01591,0.01,,1,1,0,2002,2002
+Celiac Disease,C0007570,TBX1,6899,O43435,T-box transcription factor 1,Transcription factor,417,0.433,0.808,0.83661,0.01,,1,1,0,2007,2007
+Celiac Disease,C0007570,CD44,960,P16070,CD44 molecule (Indian blood group),,711,0.363,0.962,2.45E-07,0.01,,1,1,0,2009,2009
+Celiac Disease,C0007570,EHMT1,79813,Q9H9B1,euchromatic histone lysine methyltransferase 1,Epigenetic regulator,371,0.46,0.808,1,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,PRL,5617,P01236,prolactin,Signaling,506,0.406,0.885,2.90E-07,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,PSMB6,5694,P28072,proteasome 20S subunit beta 6,,100,0.561,0.731,0.015779,0.01,,1,1,0,1996,1996
+Celiac Disease,C0007570,PPP6C,5537,O00743,protein phosphatase 6 catalytic subunit,,20,0.729,0.231,0.85535,0.01,,1,1,0,2009,2009
+Celiac Disease,C0007570,TLR3,7098,O15455,toll like receptor 3,Receptor,393,0.427,0.885,1.63E-07,0.01,,1,1,0,2007,2007
+Celiac Disease,C0007570,ODR4,54953,Q5SWX8,odr-4 GPCR localization factor homolog,,5,0.839,0.231,2.71E-07,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,PGPEP1,54858,Q9NXJ5,pyroglutamyl-peptidase I,Enzyme,116,0.581,0.769,0.0084969,0.01,,0,1,0,2006,2006
+Celiac Disease,C0007570,PNPLA2,57104,Q96AD5,patatin like phospholipase domain containing 2,Enzyme,199,0.511,0.846,0.0041069,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,SCG2,7857,P13521,secretogranin II,,57,0.628,0.615,2.12E-05,0.01,,1,1,0,2012,2012
+Celiac Disease,C0007570,TOLLIP,54472,Q9H0E2,toll interacting protein,,40,0.65,0.462,0.081141,0.01,,1,1,0,2012,2012
+Celiac Disease,C0007570,PON3,5446,Q15166,paraoxonase 3,,62,0.663,0.692,2.10E-07,0.01,,1,1,0,2007,2007
+Celiac Disease,C0007570,PON2,5445,Q15165,paraoxonase 2,,117,0.566,0.808,5.44E-05,0.01,,1,1,0,2007,2007
+Celiac Disease,C0007570,VIP,7432,P01282,vasoactive intestinal peptide,Signaling,376,0.437,0.846,0.00041995,0.01,,1,1,0,2013,2013
+Celiac Disease,C0007570,YY1,7528,P25490,YY1 transcription factor,Transcription factor,245,0.481,0.808,0.9938,0.01,,1,1,0,1996,1996
+Celiac Disease,C0007570,UBE2L3,7332,P68036,ubiquitin conjugating enzyme E2 L3,Enzyme,56,0.644,0.615,0.83844,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,PRKCQ,5588,Q04759,protein kinase C theta,Kinase,53,0.636,0.654,0.2972,0.01,,1,1,0,2009,2009
+Celiac Disease,C0007570,CCR2,729230,P41597,C-C motif chemokine receptor 2,,436,0.418,0.846,0.023412,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,PRKCD,5580,Q05655,protein kinase C delta,Kinase,287,0.48,0.846,0.99995,0.01,,1,1,0,2013,2013
+Celiac Disease,C0007570,CLDN5,7122,O00501,claudin 5,Cell-cell junction,104,0.559,0.769,0.89512,0.01,,1,1,0,2005,2005
+Celiac Disease,C0007570,CD48,962,P09326,CD48 molecule,,74,0.592,0.692,1.73E-05,0.01,,1,1,0,2016,2016
+Celiac Disease,C0007570,PML,5371,P29590,promyelocytic leukemia,,274,0.477,0.846,0.21291,0.01,,1,1,0,2012,2012
+Celiac Disease,C0007570,TNFRSF1A,7132,P19438,TNF receptor superfamily member 1A,,487,0.409,0.923,0.9949,0.01,,0,1,1,2015,2015
+Celiac Disease,C0007570,IFT122,55764,Q9HBG6,intraflagellar transport 122,,135,0.56,0.846,2.38E-24,0.01,,1,1,0,2020,2020
+Celiac Disease,C0007570,SLC30A10,55532,Q6XR72,solute carrier family 30 member 10,Transporter,120,0.578,0.654,0.97952,0.01,,1,1,0,2016,2016
+Celiac Disease,C0007570,TPMT,7172,P51580,thiopurine S-methyltransferase,,83,0.593,0.692,7.11E-06,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,KIR2DL5B,553128,Q8NHK3,"killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 5B",,27,0.682,0.423,,0.01,,1,1,0,2007,2007
+Celiac Disease,C0007570,ZFP36,7538,P26651,ZFP36 ring finger protein,Nucleic acid binding,161,0.523,0.692,0.75244,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,HSPB3,8988,Q12988,heat shock protein family B (small) member 3,,327,0.448,0.769,6.09E-05,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,S100B,6285,P04271,S100 calcium binding protein B,Calcium-binding protein,599,0.383,0.923,0.04387,0.01,,1,1,0,2007,2007
+Celiac Disease,C0007570,TSHR,7253,P16473,thyroid stimulating hormone receptor,G-protein coupled receptor,250,0.486,0.808,3.04E-15,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,MTG1,92170,Q9BT17,mitochondrial ribosome associated GTPase 1,,59,0.621,0.769,0.013299,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,SGK1,6446,O00141,serum/glucocorticoid regulated kinase 1,Kinase,188,0.506,0.769,0.0023046,0.01,,1,1,0,2010,2010
+Celiac Disease,C0007570,SLC6A4,6532,P31645,solute carrier family 6 member 4,Transporter,440,0.429,0.808,0.24602,0.01,,1,1,0,2011,2011
+Celiac Disease,C0007570,SNORA73A,6080,,"small nucleolar RNA, H/ACA box 73A",,15,0.769,0.385,,0.01,,1,1,0,1989,1989
+Celiac Disease,C0007570,MADD,8567,Q8WXG6,MAP kinase activating death domain,,57,0.644,0.538,1.54E-14,0.01,,0,1,0,2011,2011
+Celiac Disease,C0007570,CD8A,925,P01732,CD8a molecule,,87,0.587,0.769,1.68E-05,0.01,,1,1,0,2014,2014
+Celiac Disease,C0007570,SLC22A4,6583,Q9H015,solute carrier family 22 member 4,Transporter,90,0.603,0.769,1.83E-08,0.01,,1,1,0,2004,2004
+Celiac Disease,C0007570,SOD1,6647,P00441,superoxide dismutase 1,Enzyme,689,0.379,0.962,0.1773,0.01,,0,1,0,2017,2017
+Celiac Disease,C0007570,CD4,920,P01730,CD4 molecule,,73,0.604,0.654,0.00078914,0.01,,1,1,0,2009,2009
+Celiac Disease,C0007570,CD3G,917,P09693,CD3g molecule,,33,0.695,0.346,1.71E-05,0.01,,1,1,0,2008,2008
+Celiac Disease,C0007570,SELE,6401,P16581,selectin E,,327,0.447,0.808,7.91E-10,0.01,,0,1,0,2006,2006
+Celiac Disease,C0007570,IL33,90865,O95760,interleukin 33,,487,0.409,0.885,8.29E-10,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,TNFSF13,8741,O75888,TNF superfamily member 13,,189,0.499,0.769,0.81724,0.01,,1,1,1,2012,2012
+Celiac Disease,C0007570,SELL,6402,P14151,selectin L,,171,0.505,0.846,4.96E-07,0.01,,1,1,1,2006,2006
+Celiac Disease,C0007570,CD1D,912,P15813,CD1d molecule,,140,0.532,0.769,1.88E-06,0.01,,1,1,0,2007,2007
+Celiac Disease,C0007570,CCL5,6352,P13501,C-C motif chemokine ligand 5,Signaling,514,0.403,0.885,0.0017516,0.01,,1,1,0,2005,2005
+Celiac Disease,C0007570,CCL2,6347,P13500,C-C motif chemokine ligand 2,Signaling,1157,0.321,0.962,0.60786,0.01,,1,1,0,1997,1997
+Celiac Disease,C0007570,CD3E,916,P07766,CD3e molecule,,73,0.615,0.615,0.00034464,0.01,,1,1,0,2003,2003
+Celiac Disease,C0007570,IFIH1,64135,Q9BYX4,interferon induced with helicase C domain 1,,319,0.471,0.808,6.98E-44,0.01,,1,1,2,2013,2013
+Celiac Disease,C0007570,CFB,629,P00751,complement factor B,,139,0.532,0.769,4.67E-16,0.01,,1,1,0,2005,2005
+Celiac Disease,C0007570,BCL2,596,P10415,BCL2 apoptosis regulator,Signaling,1456,0.291,0.885,0.55903,0.01,,1,1,0,2002,2002
+Celiac Disease,C0007570,BCKDHB,594,P21953,branched chain keto acid dehydrogenase E1 subunit beta,Enzyme,50,0.682,0.5,4.31E-09,0.01,,1,1,0,1989,1989
+Celiac Disease,C0007570,ZFAT,57623,Q9P243,zinc finger and AT-hook domain containing,Transcription factor,23,0.769,0.423,1.28E-08,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,PNPLA3,80339,Q9NST1,patatin like phospholipase domain containing 3,Enzyme,132,0.556,0.692,5.74E-08,0.01,,1,1,1,2018,2018
+Celiac Disease,C0007570,STAT6,6778,P42226,signal transducer and activator of transcription 6,Nucleic acid binding,281,0.475,0.808,0.98849,0.01,,1,1,0,2004,2004
+Celiac Disease,C0007570,CD86,942,P42081,CD86 molecule,,219,0.483,0.769,0.94879,0.01,,1,1,0,2002,2002
+Celiac Disease,C0007570,TRABD,80305,Q9H4I3,TraB domain containing,,9,0.839,0.308,0.022862,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,CCDC33,80125,Q8N5R6,coiled-coil domain containing 33,,12,0.839,0.269,4.96E-20,0.01,,1,1,0,2004,2004
+Celiac Disease,C0007570,PTH,5741,P01270,parathyroid hormone,,528,0.397,0.846,0.012093,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,KIR2DL5A,57292,Q8N109,"killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 5A",Receptor,21,0.711,0.423,,0.01,,1,1,0,2007,2007
+Celiac Disease,C0007570,NCR1,9437,O76036,natural cytotoxicity triggering receptor 1,Receptor,96,0.572,0.654,7.33E-11,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,BTNL8,79908,Q6UX41,butyrophilin like 8,Enzyme modulator,4,0.861,0.154,1.45E-05,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,NCALD,83988,P61601,neurocalcin delta,,18,0.751,0.385,0.8931,0.01,,1,1,0,2015,2015
+Celiac Disease,C0007570,ATAD1,84896,Q8NBU5,ATPase family AAA domain containing 1,,126,0.545,0.692,0.0013367,0.01,,1,1,0,1990,1990
+Celiac Disease,C0007570,SOX9,6662,P48436,SRY-box transcription factor 9,,466,0.419,0.846,0.99772,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,RAG1,5896,P15918,recombination activating 1,Enzyme,209,0.509,0.769,2.77E-05,0.01,,1,1,0,2009,2009
+Celiac Disease,C0007570,BDNF,627,P23560,brain derived neurotrophic factor,Signaling,992,0.345,0.923,0.65626,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,RAC2,5880,P15153,Rac family small GTPase 2,Enzyme modulator,119,0.556,0.731,0.96627,0.01,,1,1,0,2020,2020
+Celiac Disease,C0007570,BAX,581,Q07812,"BCL2 associated X, apoptosis regulator",Signaling,420,0.417,0.885,0.31746,0.01,,0,1,0,2017,2017
+Celiac Disease,C0007570,COX5A,9377,P20674,cytochrome c oxidase subunit 5A,Enzyme,171,0.515,0.846,0.49407,0.01,,1,1,0,2009,2009
+Celiac Disease,C0007570,SPINK1,6690,P00995,serine peptidase inhibitor Kazal type 1,,216,0.492,0.808,0.31476,0.01,,1,1,0,2007,2007
+Celiac Disease,C0007570,PTPRC,5788,P08575,protein tyrosine phosphatase receptor type C,Enzyme,366,0.435,0.808,1,0.01,,1,1,0,1996,1996
+Celiac Disease,C0007570,C6orf47,57827,O95873,chromosome 6 open reading frame 47,,21,0.722,0.423,0.066412,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,BAK1,578,Q16611,BCL2 antagonist/killer 1,Signaling,115,0.555,0.769,7.40E-06,0.01,,1,1,0,2002,2002
+Celiac Disease,C0007570,CD34,947,P28906,CD34 molecule,,674,0.368,0.808,4.99E-06,0.01,,1,1,0,2016,2016
+Celiac Disease,C0007570,DPP4,1803,P27487,dipeptidyl peptidase 4,Enzyme,451,0.42,0.808,7.28E-09,0.01,,1,1,0,2003,2003
+Celiac Disease,C0007570,NAPEPLD,222236,Q6IQ20,N-acyl phosphatidylethanolamine phospholipase D,,4,0.861,0.154,2.94E-05,0.01,,1,1,0,2012,2012
+Celiac Disease,C0007570,NLRP1,22861,Q9C000,NLR family pyrin domain containing 1,,200,0.502,0.769,4.97E-19,0.01,,1,1,1,2011,2011
+Celiac Disease,C0007570,TBC1D9,23158,Q6ZT07,TBC1 domain family member 9,Enzyme,491,0.399,0.846,2.80E-05,0.01,,1,1,0,2010,2010
+Celiac Disease,C0007570,CLEC16A,23274,Q2KHT3,C-type lectin domain containing 16A,,67,0.612,0.654,0.27595,0.01,,1,1,0,2009,2009
+Celiac Disease,C0007570,ISCU,23479,Q9H1K1,iron-sulfur cluster assembly enzyme,,46,0.695,0.423,0.041463,0.01,,1,1,0,1989,1989
+Celiac Disease,C0007570,CADM1,23705,Q9BY67,cell adhesion molecule 1,,205,0.491,0.769,0.66216,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,ALK,238,Q9UM73,ALK receptor tyrosine kinase,Kinase,519,0.396,0.846,3.23E-06,0.01,,0,1,0,2015,2015
+Celiac Disease,C0007570,CLDN15,24146,P56746,claudin 15,Cell-cell junction,15,0.769,0.269,0.023349,0.01,,0,1,0,2020,2020
+Celiac Disease,C0007570,MTOR,2475,P42345,mechanistic target of rapamycin kinase,Kinase,960,0.343,0.885,1,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,FCGRT,2217,P55899,Fc fragment of IgG receptor and transporter,,102,0.563,0.654,0.041493,0.01,,1,1,0,1987,1987
+Celiac Disease,C0007570,FAAH,2166,O00519,fatty acid amide hydrolase,,177,0.545,0.692,4.44E-11,0.01,,1,1,0,2012,2012
+Celiac Disease,C0007570,EGF,1950,P01133,epidermal growth factor,,774,0.357,0.923,8.53E-17,0.01,,1,1,0,2013,2013
+Celiac Disease,C0007570,AHR,196,P35869,aryl hydrocarbon receptor,Transcription factor,532,0.41,0.923,0.99999,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,ELAVL2,1993,Q12926,ELAV like RNA binding protein 2,,199,0.486,0.808,0.99514,0.01,,1,1,0,2020,2020
+Celiac Disease,C0007570,ELN,2006,P15502,elastin,,545,0.415,0.885,2.14E-14,0.01,,1,1,0,2000,2000
+Celiac Disease,C0007570,ERBB2,2064,P04626,erb-b2 receptor tyrosine kinase 2,Kinase,995,0.328,0.923,0.0059892,0.01,,1,1,0,2012,2012
+Celiac Disease,C0007570,ETFA,2108,P13804,electron transfer flavoprotein subunit alpha,Enzyme,195,0.508,0.731,0.0029217,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,ALB,213,P02768,albumin,Transporter,1198,0.317,0.962,0.64329,0.01,,1,1,0,2020,2020
+Celiac Disease,C0007570,F2,2147,P00734,"coagulation factor II, thrombin",Enzyme,490,0.415,0.885,0.0011118,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,F9,2158,P00740,coagulation factor IX,Enzyme,276,0.465,0.885,0.99776,0.01,,1,1,0,2014,2014
+Celiac Disease,C0007570,FUT4,2526,P22083,fucosyltransferase 4,Enzyme,168,0.505,0.731,7.73E-06,0.01,,1,1,0,2016,2016
+Celiac Disease,C0007570,GABBR1,2550,Q9UBS5,gamma-aminobutyric acid type B receptor subunit 1,G-protein coupled receptor,82,0.587,0.769,0.99991,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,GAD1,2571,Q99259,glutamate decarboxylase 1,Enzyme,245,0.486,0.885,0.046164,0.01,,1,1,0,2009,2009
+Celiac Disease,C0007570,B3GAT1,27087,Q9P2W7,"beta-1,3-glucuronyltransferase 1",Enzyme,199,0.494,0.769,0.13521,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,GLB1,2720,P16278,galactosidase beta 1,Enzyme,385,0.448,0.808,7.92E-10,0.01,,1,1,1,2015,2015
+Celiac Disease,C0007570,SPINK4,27290,O60575,serine peptidase inhibitor Kazal type 4,Enzyme modulator,24,0.705,0.5,0.29634,0.01,,1,1,0,2007,2007
+Celiac Disease,C0007570,HPGDS,27306,O60760,hematopoietic prostaglandin D synthase,,570,0.388,0.923,1.81E-06,0.01,,1,1,0,2014,2014
+Celiac Disease,C0007570,GLI1,2735,P08151,GLI family zinc finger 1,,369,0.431,0.846,7.66E-14,0.01,,1,1,0,2009,2009
+Celiac Disease,C0007570,GLI2,2736,P10070,GLI family zinc finger 2,,351,0.446,0.846,0.97303,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,GLP1R,2740,P43220,glucagon like peptide 1 receptor,G-protein coupled receptor,288,0.471,0.846,0.29347,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,GLS,2744,O94925,glutaminase,Enzyme,217,0.489,0.808,0.96154,0.01,,1,1,0,2015,2015
+Celiac Disease,C0007570,GNAO1,2775,P09471,G protein subunit alpha o1,Enzyme modulator,188,0.523,0.808,0.98963,0.01,,0,1,0,2002,2002
+Celiac Disease,C0007570,LAMP3,27074,Q9UQV4,lysosomal associated membrane protein 3,Transporter,104,0.56,0.692,0.00026747,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,GH1,2688,P01241,growth hormone 1,Signaling,686,0.373,0.923,0.030057,0.01,,1,1,0,2015,2015
+Celiac Disease,C0007570,GAD2,2572,Q05329,glutamate decarboxylase 2,Enzyme,173,0.529,0.731,0.75083,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,QPCT,25797,Q16769,glutaminyl-peptide cyclotransferase,Enzyme,94,0.568,0.731,1.20E-15,0.01,,1,1,0,2002,2002
+Celiac Disease,C0007570,CHMP2B,25978,Q9UQN3,charged multivesicular body protein 2B,,177,0.543,0.731,4.62E-06,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,ULK3,25989,Q6PHR2,unc-51 like kinase 3,Kinase,10,0.839,0.115,0.0020258,0.01,,1,1,1,2016,2016
+Celiac Disease,C0007570,GATA3,2625,P23771,GATA binding protein 3,,429,0.415,0.846,0.89887,0.01,,1,1,0,2004,2004
+Celiac Disease,C0007570,GBGT1,26301,Q8N5D6,"globoside alpha-1,3-N-acetylgalactosaminyltransferase 1 (FORS blood group)",Enzyme,7,0.861,0.192,1.08E-10,0.01,,0,1,0,2011,2011
+Celiac Disease,C0007570,GCG,2641,P01275,glucagon,,441,0.431,0.885,0.034814,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,AMELX,265,Q99217,amelogenin X-linked,,72,0.599,0.769,0.074507,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,AMH,268,P03971,anti-Mullerian hormone,,242,0.476,0.846,3.40E-12,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,OR10A4,283297,Q9H209,olfactory receptor family 10 subfamily A member 4,G-protein coupled receptor,128,0.54,0.808,1.68E-05,0.01,,1,1,0,2008,2008
+Celiac Disease,C0007570,ZGLP1,100125288,P0C6A0,zinc finger GATA like protein 1,,186,0.512,0.808,0.3868,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,CD226,10666,Q15762,CD226 molecule,,124,0.548,0.769,0.03921,0.01,,1,1,1,2013,2013
+Celiac Disease,C0007570,GNA13,10672,Q14344,G protein subunit alpha 13,Enzyme modulator,46,0.656,0.538,0.86735,0.01,,1,1,0,2012,2012
+Celiac Disease,C0007570,TNFSF13B,10673,Q9Y275,TNF superfamily member 13b,,282,0.46,0.731,0.98193,0.01,,1,1,0,2014,2014
+Celiac Disease,C0007570,BTNL3,10917,Q6UXE8,butyrophilin like 3,Enzyme modulator,1,1,0.077,0.00059654,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,LILRA3,11026,Q8N6C8,leukocyte immunoglobulin like receptor A3,Receptor,19,0.722,0.5,1.45E-06,0.01,,0,1,0,2002,2002
+Celiac Disease,C0007570,CHI3L1,1116,P36222,chitinase 3 like 1,,420,0.419,0.885,1.11E-05,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,DUSP10,11221,Q9Y6W6,dual specificity phosphatase 10,,36,0.686,0.577,0.8335,0.01,,1,1,0,2013,2013
+Celiac Disease,C0007570,H3P13,115482685,,H3 histone pseudogene 13,,78,0.584,0.769,,0.01,,1,1,0,2014,2014
+Celiac Disease,C0007570,CLC,1178,Q05315,Charcot-Leyden crystal galectin,Signaling,44,0.65,0.731,2.30E-05,0.01,,1,1,0,2009,2009
+Celiac Disease,C0007570,KAT5,10524,Q92993,lysine acetyltransferase 5,,138,0.534,0.769,0.088234,0.01,,1,1,0,2011,2011
+Celiac Disease,C0007570,CLEC10A,10462,Q8IUN9,C-type lectin domain containing 10A,Receptor,64,0.606,0.692,7.76E-06,0.01,,1,1,0,1989,1989
+Celiac Disease,C0007570,AD12,100188830,,Alzheimer disease 12,,27,0.711,0.538,,0.01,,1,1,0,1994,1994
+Celiac Disease,C0007570,LINC01672,100505887,,long intergenic non-protein coding RNA 1672,,268,0.462,0.846,,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,OCLN,100506658,Q16625,occludin,,195,0.507,0.846,8.56E-07,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,ABCB6,10058,Q9NP58,ATP binding cassette subfamily B member 6 (Langereis blood group),Transporter,400,0.431,0.885,8.60E-19,0.01,,1,1,0,1984,1984
+Celiac Disease,C0007570,OPTN,10133,Q96CV9,optineurin,,136,0.548,0.808,5.91E-18,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,PRSS16,10279,Q9NQE7,serine protease 16,Enzyme,12,0.792,0.346,4.06E-07,0.01,,0,1,0,2007,2007
+Celiac Disease,C0007570,CDKN2A,1029,P42771;Q8N726,cyclin dependent kinase inhibitor 2A,,1314,0.3,0.885,0.39474,0.01,,1,1,0,2014,2014
+Celiac Disease,C0007570,CDKN2D,1032,P55273,cyclin dependent kinase inhibitor 2D,,110,0.547,0.769,0.49473,0.01,,1,1,0,2014,2014
+Celiac Disease,C0007570,SEMA3A,10371,Q14563,semaphorin 3A,Signaling,202,0.5,0.808,0.9779,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,CCR1,1230,P32246,C-C motif chemokine receptor 1,G-protein coupled receptor,192,0.531,0.769,0.38775,0.01,,1,1,0,2010,2010
+Celiac Disease,C0007570,CCR5,1234,P51681,C-C motif chemokine receptor 5 (gene/pseudogene),G-protein coupled receptor,508,0.398,0.885,4.31E-10,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,IL17RE,132014,Q8NFR9,interleukin 17 receptor E,,16,0.751,0.385,8.57E-08,0.01,,1,1,0,2014,2014
+Celiac Disease,C0007570,CCN2,1490,P29279,cellular communication network factor 2,Signaling,518,0.399,0.846,0.00050202,0.01,,1,1,0,2010,2010
+Celiac Disease,C0007570,CTSB,1508,P07858,cathepsin B,Enzyme,304,0.457,0.846,5.88E-11,0.01,,1,1,0,2006,2006
+Celiac Disease,C0007570,CX3CR1,1524,P49238,C-X3-C motif chemokine receptor 1,G-protein coupled receptor,310,0.457,0.885,0.061371,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,NKX2-3,159296,Q8TAU0,NK2 homeobox 3,Transcription factor,22,0.716,0.231,0.95047,0.01,,1,1,1,2009,2009
+Celiac Disease,C0007570,CST13P,164380,,"cystatin 13, pseudogene",,2,1,0.077,,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,TMPRSS6,164656,Q8IU80,transmembrane serine protease 6,Enzyme,113,0.584,0.654,4.14E-10,0.01,,1,1,3,2018,2018
+Celiac Disease,C0007570,OLIG3,167826,Q7RTU3,oligodendrocyte transcription factor 3,Enzyme,4,0.861,0.192,0.83391,0.01,,1,1,0,2009,2009
+Celiac Disease,C0007570,SLC30A8,169026,Q8IWU4,solute carrier family 30 member 8,Transporter,63,0.623,0.731,7.43E-12,0.01,,1,1,0,2016,2016
+Celiac Disease,C0007570,DMRT1,1761,Q9Y5R6,doublesex and mab-3 related transcription factor 1,,101,0.559,0.654,0.7387,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,TICAM1,148022,Q8IUC6,toll like receptor adaptor molecule 1,,73,0.593,0.846,,0.01,,1,1,0,2013,2013
+Celiac Disease,C0007570,ADRA1A,148,P35348,adrenoceptor alpha 1A,G-protein coupled receptor,294,0.462,0.846,3.37E-07,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,ADAD1,132612,Q96M93,adenosine deaminase domain containing 1,Enzyme,8,0.821,0.269,0.038952,0.01,,1,1,0,2007,2007
+Celiac Disease,C0007570,SLCO6A1,133482,Q86UG4,solute carrier organic anion transporter family member 6A1,Transporter,449,0.412,0.885,2.88E-11,0.01,,1,1,0,2014,2014
+Celiac Disease,C0007570,COX8A,1351,P10176,cytochrome c oxidase subunit 8A,Enzyme,526,0.4,0.846,0.11606,0.01,,1,1,0,2009,2009
+Celiac Disease,C0007570,CLDN3,1365,O15551,claudin 3,Cell-cell junction,108,0.558,0.615,0.52233,0.01,,1,1,0,2016,2016
+Celiac Disease,C0007570,CPOX,1371,P36551,coproporphyrinogen oxidase,Enzyme,246,0.488,0.846,0.17152,0.01,,1,1,0,2009,2009
+Celiac Disease,C0007570,CR2,1380,P20023,complement C3d receptor 2,,123,0.556,0.654,4.74E-19,0.01,,1,1,0,2013,2013
+Celiac Disease,C0007570,TRIM69,140691,Q86WT6,tripartite motif containing 69,,63,0.612,0.731,2.57E-09,0.01,,1,1,0,2013,2013
+Celiac Disease,C0007570,PARP1,142,P09874,poly(ADP-ribose) polymerase 1,,565,0.389,0.923,0.00033366,0.01,,1,1,0,2005,2005
+Celiac Disease,C0007570,CSN2,1447,P05814,casein beta,Storage,49,0.641,0.538,7.18E-06,0.01,,1,1,0,2002,2002
+Celiac Disease,C0007570,DNAH8,1769,Q96JB1,dynein axonemal heavy chain 8,Enzyme,120,0.556,0.731,1.15E-60,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,LTBR,4055,P36941,lymphotoxin beta receptor,,78,0.592,0.692,0.3058,0.01,,1,1,0,2020,2020
+Celiac Disease,C0007570,MME,4311,P08473,membrane metalloendopeptidase,Enzyme,470,0.407,0.808,1.47E-18,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,MSH2,4436,P43246,mutS homolog 2,Nucleic acid binding,490,0.406,0.808,0.89539,0.01,,1,1,0,2004,2004
+Celiac Disease,C0007570,MSH5,4439,O43196,mutS homolog 5,Nucleic acid binding,51,0.641,0.692,3.20E-11,0.01,,1,1,0,2015,2015
+Celiac Disease,C0007570,MUC1,4582,P15941,"mucin 1, cell surface associated",,594,0.384,0.885,0.018774,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,ATD,465,,asphixiating thoracic dystrophy (chondroectodermal dysplasia-like syndrome),,36,0.656,0.731,,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,NCAM1,4684,P13591,neural cell adhesion molecule 1,,445,0.415,0.885,0.99999,0.01,,1,1,0,2007,2007
+Celiac Disease,C0007570,NDUFA2,4695,O43678,NADH:ubiquinone oxidoreductase subunit A2,Enzyme,72,0.617,0.577,0.77351,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,NFKBIB,4793,Q15653,NFKB inhibitor beta,,16,0.743,0.462,0.42245,0.01,,1,1,0,2003,2003
+Celiac Disease,C0007570,NHS,4810,Q6T4R5,NHS actin remodeling regulator,,295,0.466,0.846,0.99999,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,MLN,4295,P12872,motilin,,46,0.656,0.577,0.0041058,0.01,,1,1,0,2003,2003
+Celiac Disease,C0007570,MICB,4277,Q29980,MHC class I polypeptide-related sequence B,,95,0.576,0.731,4.06E-05,0.01,,1,1,0,2006,2006
+Celiac Disease,C0007570,LYZ,4069,P61626,lysozyme,,178,0.526,0.846,3.41E-06,0.01,,1,1,0,2002,2002
+Celiac Disease,C0007570,MIR155,406947,,microRNA 155,,584,0.384,0.885,,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,SMAD2,4087,Q15796,SMAD family member 2,Transcription factor,289,0.456,0.808,0.99661,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,SMAD7,4092,O15105,SMAD family member 7,Transcription factor,269,0.47,0.769,0.54854,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,DEFB103A,414325,P81534,defensin beta 103A,,84,0.573,0.731,,0.01,,1,1,0,2010,2010
+Celiac Disease,C0007570,HCG14,414760,,HLA complex group 14,,1,1,0.077,,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,MCL1,4170,Q07820,"MCL1 apoptosis regulator, BCL2 family member",Signaling,375,0.43,0.808,0.96349,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,MEFV,4210,O15553,"MEFV innate immuity regulator, pyrin",,410,0.44,0.885,1.02E-14,0.01,,1,1,2,2008,2008
+Celiac Disease,C0007570,MGMT,4255,P16455,O-6-methylguanine-DNA methyltransferase,,444,0.412,0.885,1.18E-07,0.01,,1,1,0,2010,2010
+Celiac Disease,C0007570,NOS1,4842,P29475,nitric oxide synthase 1,,521,0.408,0.885,1,0.01,,0,1,0,2005,2005
+Celiac Disease,C0007570,NT5E,4907,P21589,5'-nucleotidase ecto,Enzyme,376,0.436,0.885,2.29E-11,0.01,,1,1,0,2010,2010
+Celiac Disease,C0007570,TNFRSF11B,4982,O00300,TNF receptor superfamily member 11b,,443,0.422,0.808,0.16171,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,SERPINF1,5176,P36955,serpin family F member 1,Enzyme modulator,294,0.46,0.846,7.80E-08,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,ABCB1,5243,P08183,ATP binding cassette subfamily B member 1,Transporter,933,0.344,0.885,1.26E-05,0.01,,1,1,0,2010,2010
+Celiac Disease,C0007570,SERPINA1,5265,P01009,serpin family A member 1,Enzyme modulator,482,0.41,0.923,6.85E-08,0.01,,1,1,0,1980,1980
+Celiac Disease,C0007570,PI3,5266,P19957,peptidase inhibitor 3,Enzyme modulator,92,0.57,0.692,0.16965,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,SERPINE2,5270,P07093,serpin family E member 2,Enzyme modulator,87,0.592,0.692,0.7299,0.01,,1,1,0,2009,2009
+Celiac Disease,C0007570,PIK3CA,5290,P42336,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",Kinase,1511,0.292,0.923,1,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,PIK3CB,5291,P42338,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",Kinase,1083,0.322,0.885,0.99964,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,PIK3CD,5293,O00329,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta",Kinase,1119,0.319,0.885,0.99999,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,PIK3CG,5294,P48736,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma",Kinase,1101,0.32,0.885,1.41E-06,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,GHRL,51738,Q9UBU3,ghrelin and obestatin prepropeptide,,183,0.517,0.769,1.39E-11,0.01,,1,1,0,2008,2008
+Celiac Disease,C0007570,ACSL5,51703,Q9ULC5,acyl-CoA synthetase long chain family member 5,Enzyme,51,0.641,0.5,2.89E-09,0.01,,1,1,0,2006,2006
+Celiac Disease,C0007570,PBX3,5090,P40426,PBX homeobox 3,Transcription factor,60,0.619,0.5,0.36301,0.01,,1,1,0,2009,2009
+Celiac Disease,C0007570,IBD6,50942,,inflammatory bowel disease 6,,5,0.861,0.077,,0.01,,1,1,0,2006,2006
+Celiac Disease,C0007570,TBC1D7,51256,Q9P0N9,TBC1 domain family member 7,,26,0.729,0.385,2.94E-12,0.01,,1,1,0,2014,2014
+Celiac Disease,C0007570,TLR7,51284,Q9NYK1,toll like receptor 7,,276,0.464,0.885,0.97912,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,HSPA2,3306,P54652,heat shock protein family A (Hsp70) member 2,,115,0.55,0.808,0.048648,0.01,,1,1,0,1993,1993
+Celiac Disease,C0007570,NELFCD,51497,Q8IXH7,negative elongation factor complex member C/D,,24,0.705,0.538,0.17607,0.01,,1,1,0,2011,2011
+Celiac Disease,C0007570,PDGFB,5155,P01127,platelet derived growth factor subunit B,Signaling,301,0.488,0.846,0.77006,0.01,,1,1,0,2014,2014
+Celiac Disease,C0007570,IL23A,51561,Q9NPF7,interleukin 23 subunit alpha,Signaling,427,0.415,0.846,0.35806,0.01,,1,1,0,2014,2014
+Celiac Disease,C0007570,GINS2,51659,Q9Y248,GINS complex subunit 2,Enzyme,51,0.638,0.577,1.57E-08,0.01,,1,1,0,1992,1992
+Celiac Disease,C0007570,PLA2G4A,5321,P47712,phospholipase A2 group IVA,Enzyme,202,0.496,0.846,5.98E-05,0.01,,1,1,0,2011,2011
+Celiac Disease,C0007570,IGHV5-51,28388,A0A0C4DH38,immunoglobulin heavy variable 5-51,,2,0.931,0.192,,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,HLA-B,3106,P01889,"major histocompatibility complex, class I, B",,706,0.379,0.885,3.86E-05,0.01,,1,1,0,2015,2015
+Celiac Disease,C0007570,HLA-DMB,3109,P28068,"major histocompatibility complex, class II, DM beta",Immune response,41,0.638,0.615,0.0024627,0.01,,1,1,0,1997,1997
+Celiac Disease,C0007570,ANXA11,311,P50995,annexin A11,,57,0.65,0.692,4.70E-10,0.01,,0,1,0,2012,2012
+Celiac Disease,C0007570,HLA-DOA,3111,P06340,"major histocompatibility complex, class II, DO alpha",Immune response,160,0.509,0.808,2.98E-10,0.01,,1,1,0,1995,1995
+Celiac Disease,C0007570,HLA-DQB2,3120,P05538,"major histocompatibility complex, class II, DQ beta 2",Immune response,91,0.573,0.731,0.042679,0.01,,0,1,0,2002,2002
+Celiac Disease,C0007570,HNRNPD,3184,Q14103,heterogeneous nuclear ribonucleoprotein D,,60,0.621,0.654,0.99621,0.01,,1,1,0,2016,2016
+Celiac Disease,C0007570,APC,324,P25054,APC regulator of WNT signaling pathway,,703,0.373,0.962,1,0.01,,1,1,0,2010,2010
+Celiac Disease,C0007570,HSPD1,3329,P10809,heat shock protein family D (Hsp60) member 1,,398,0.432,0.808,0.99257,0.01,,1,1,0,1999,1999
+Celiac Disease,C0007570,IDDM3,3402,,insulin dependent diabetes mellitus 3,,5,0.861,0.154,,0.01,,1,1,0,1997,1997
+Celiac Disease,C0007570,CD209,30835,Q9NNX6,CD209 molecule,Receptor,57,0.626,0.769,2.74E-13,0.01,,0,1,0,2006,2006
+Celiac Disease,C0007570,GZMB,3002,P10144,granzyme B,Enzyme,290,0.453,0.808,3.67E-14,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,STPG4,285051,Q8N801,sperm-tail PG-rich repeat containing 4,,39,0.659,0.577,9.51E-05,0.01,,1,1,0,1981,1981
+Celiac Disease,C0007570,DLL1,28514,O00548,delta like canonical Notch ligand 1,,212,0.492,0.808,0.99999,0.01,,1,1,0,1996,1996
+Celiac Disease,C0007570,TRDJ1,28522,A0A075B706,T cell receptor delta joining 1,,18,0.736,0.269,,0.01,,0,1,0,1996,1996
+Celiac Disease,C0007570,TRDD3,28523,,T cell receptor delta diversity 3,,18,0.736,0.269,,0.01,,0,1,0,1996,1996
+Celiac Disease,C0007570,TRDC,28526,B7Z8K6,T cell receptor delta constant,,19,0.729,0.269,,0.01,,0,1,0,1996,1996
+Celiac Disease,C0007570,TRAV26-1,28657,A0A087WT03,T cell receptor alpha variable 26-1,,1,1,0.077,,0.01,,1,1,0,2020,2020
+Celiac Disease,C0007570,ANPEP,290,P15144,"alanyl aminopeptidase, membrane",Enzyme,280,0.462,0.769,3.75E-09,0.01,,1,1,0,1999,1999
+Celiac Disease,C0007570,GRINA,2907,Q7Z429,glutamate ionotropic receptor NMDA type subunit associated protein 1,,15,0.76,0.346,0.44203,0.01,,1,1,0,2016,2016
+Celiac Disease,C0007570,GTF2A1,2957,P52655,general transcription factor IIA subunit 1,Transcription factor,9,0.805,0.192,0.99038,0.01,,1,1,0,2002,2002
+Celiac Disease,C0007570,IRGM,345611,A1A4Y4,immunity related GTPase M,,57,0.617,0.538,,0.01,,1,1,1,2009,2009
+Celiac Disease,C0007570,IGF1,3479,P05019,insulin like growth factor 1,,1206,0.318,0.885,0.2716,0.01,,1,1,0,2002,2002
+Celiac Disease,C0007570,IGFALS,3483,P35858,insulin like growth factor binding protein acid labile subunit,Receptor,203,0.511,0.846,5.44E-11,0.01,,0,1,0,2017,2017
+Celiac Disease,C0007570,KCNJ11,3767,Q14654,potassium inwardly rectifying channel subfamily J member 11,Ion channel,218,0.529,0.615,0.010894,0.01,,1,1,1,2009,2009
+Celiac Disease,C0007570,KIR2DS1,3806,Q14954,"killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 1",Receptor,123,0.537,0.769,,0.01,,1,1,0,2012,2012
+Celiac Disease,C0007570,KIR3DL2,3812,P43630,"killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 2",Receptor,118,0.543,0.769,6.08E-12,0.01,,1,1,0,2012,2012
+Celiac Disease,C0007570,L1CAM,3897,P32004,L1 cell adhesion molecule,,289,0.475,0.769,1,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,LCT,3938,P09848,lactase,Enzyme,90,0.581,0.808,0.059849,0.01,,1,1,0,2015,2015
+Celiac Disease,C0007570,LGALS1,3956,P09382,galectin 1,Signaling,362,0.435,0.846,0.004488,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,LMO1,4004,P25800,LIM domain only 1,,56,0.623,0.538,0.63546,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,LMO2,4005,P25791,LIM domain only 2,,83,0.585,0.654,0.15884,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,LSAMP,4045,Q13449,limbic system associated membrane protein,,107,0.558,0.654,0.98742,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,GSTK1,373156,Q9Y2Q3,glutathione S-transferase kappa 1,,445,0.412,0.885,1.94E-06,0.01,,1,1,0,2014,2014
+Celiac Disease,C0007570,IRF2,3660,P14316,interferon regulatory factor 2,Transcription factor,86,0.575,0.769,0.79793,0.01,,1,1,0,2003,2003
+Celiac Disease,C0007570,IGHA1,3493,P01876,immunoglobulin heavy constant alpha 1,,64,0.617,0.692,,0.01,,1,1,0,2017,2017
+Celiac Disease,C0007570,IL2RB,3560,P14784,interleukin 2 receptor subunit beta,Receptor,226,0.491,0.846,0.29095,0.01,,1,1,0,2011,2011
+Celiac Disease,C0007570,IL5RA,3568,Q01344,interleukin 5 receptor subunit alpha,Signaling,48,0.647,0.654,2.68E-08,0.01,,1,1,0,2011,2011
+Celiac Disease,C0007570,IL6R,3570,P08887,interleukin 6 receptor,Signaling,261,0.471,0.846,3.17E-05,0.01,,1,1,0,2009,2009
+Celiac Disease,C0007570,IL9,3578,P15248,interleukin 9,,291,0.461,0.846,8.11E-07,0.01,,1,1,0,2018,2018
+Celiac Disease,C0007570,IL12RB2,3595,Q99665,interleukin 12 receptor subunit beta 2,Signaling,59,0.608,0.692,1.62E-09,0.01,,0,1,0,2012,2012
+Celiac Disease,C0007570,IL13,3596,P35225,interleukin 13,,587,0.386,0.846,0.014426,0.01,,1,1,0,2019,2019
+Celiac Disease,C0007570,INSR,3643,P06213,insulin receptor,Kinase,452,0.432,0.846,3.61E-05,0.01,,1,1,0,2015,2015
+Celiac Disease,C0007570,IRAK1,3654,P51617,interleukin 1 receptor associated kinase 1,Kinase,200,0.506,0.808,0.98774,0.01,,1,1,0,2015,2015
+Celiac Disease,C0007570,LTA,4049,P01374,lymphotoxin alpha,Signaling,353,0.434,0.885,0.19685,0.01,,1,1,0,2002,2002
