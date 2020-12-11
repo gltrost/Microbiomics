@@ -15,4 +15,4 @@ jobs:
       with:
         r-version: '3.5.3' # The R version to download (if necessary) and use.
     - run: Rscript Code/main.r
-    - run: Rscript Code/utils/venn-diagram.r
+    # - run: Rscript Code/utils/venn-diagram.r
