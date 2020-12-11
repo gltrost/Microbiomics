@@ -3,7 +3,6 @@
 #install.packages("tidyverse","hrbrthemes","tm","proustr", "VennDiagram", "RColorBrewer")
 
 # Libraries
-library(tidyverse)
 library(hrbrthemes)
 library(tm)
 library(proustr)
