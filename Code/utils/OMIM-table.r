@@ -1,7 +1,6 @@
 #install.packages("tidyverse","hrbrthemes","tm","proustr", "VennDiagram", "RColorBrewer")
-install.packages("data.table","tidyr","dplyr")
-install.packages("formattable")
-
+install.packages("data.table","tidyr","dplyr","tidyverse","hrbrthemes","tm","proustr","VennDiagram")
+install.packages("RColorBrewer","data.table","dplyr","formattable","tidyr")
 
 # Libraries
 library(tidyverse)
