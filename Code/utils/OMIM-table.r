@@ -1,6 +1,16 @@
 #install.packages("tidyverse","hrbrthemes","tm","proustr", "VennDiagram", "RColorBrewer")
 install.packages("data.table","tidyr","dplyr","tidyverse","hrbrthemes","tm","proustr","VennDiagram")
 install.packages("RColorBrewer","data.table","dplyr","formattable","tidyr")
+library_github("tidyverse/tidyverse")
+library_github("hrbrthemes/hrbrthemes")
+library_github("tm/tm")
+library_github("proustr/proustr")
+library_github("VennDiagram/VennDiagram")
+library_github("RColorBrewer/RColorBrewer")
+library_github("dplyr/dplyr")
+library_github("formattable/formattable")
+library_github("tidyr/tidyr")
+
 
 # Libraries
 library(tidyverse)
@@ -8,9 +18,7 @@ library(hrbrthemes)
 library(tm)
 library(proustr)
 library(VennDiagram)
-
 library(RColorBrewer)
-library(data.table)
 library(dplyr)
 library(formattable)
 library(tidyr)
