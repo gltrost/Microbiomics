@@ -14,7 +14,7 @@ jobs:
     - uses: r-lib/actions/setup-r@v1
       with:
         r-version: '3.5.3' # The R version to download (if necessary) and use.
-    run: |
+    - run: |
       install.packages(c("tidyr","dplyr","tidyverse","hrbrthemes","tm","proustr","VennDiagram","RColorBrewer","data.table","dplyr","formattable","tidyr"))
       remotes::install_deps(dependencies = TRUE)
     - run: Rscript Code/main.r
