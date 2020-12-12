@@ -1,12 +1,6 @@
 #Some code in this folder was taken from https://www.r-graph-gallery.com/14-venn-diagramm.html
 
 install.packages("tidyverse","hrbrthemes","tm","proustr", "VennDiagram", "RColorBrewer")
-install_github("tidyverse/tidyverse")
-install_github("hrbrthemes/hrbrthemes")
-install_github("tm/tm")
-install_github("proustr/proustr")
-install_github("VennDiagram/VennDiagram")
-install_github("RColorBrewer/RColorBrewer")
 
 # Libraries
 library(tidyverse)
