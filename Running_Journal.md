@@ -6,13 +6,46 @@ This journal is to show my changing and developing thoughts with respect to my m
 The idea of this markdown file is to keep a record of my general knowledge, questions, and hypotheses which are bound to change and grow as the project develops. 
 This journal is meant to be updated at least once every few weeks.
 
+## 12/16/2020: Lost in the Woods
+The first and only info I had read on biology coming into this project was
+a bioinformatics textbook chapter for a primer on molecular biology.
+As I work through papers now, 
+I notice I'm regularly lost on the motivation for various things. 
+For example, what the heck is gene ontology? 
+What are pathways? 
+I feel I have to look up new information about once every two paragraphs.
+This isn't a bad thing necesarily.
+At least I have all these new concepts being thrown at me, 
+as opposed for me not knowing they're there. 
+
+More problematically is that my statistics is lacking.
+It's been a while since my college stats class,
+and I feel I really need to go back and refresh myself on basic 
+definitions before moving to fast. 
+This will also help with machine learning down the line.
+
+Another thing I noticed is that a lot of the information I'm replicating
+can be found on Enrichr with just a couple of easy clicks. 
+For example, if I want to know the pathways (a system of proteins
+interacting to manifest or cause some disease) can be found by 
+going to Enrichr, clicking `Term search`, typing in `celiac` , pressing
+one of the links in `Diseases/drugs` , following the link, and 
+then pressing `Pathways`! 
+Enrichr looks like a great tool for analyzing Celiac Disease 
+and what a lot of bioinformatics looks like. 
+My choice now is whether to just keeping using the site to its 
+full potential or to try to recreate some of its utilites. 
+
+![Coeliac pathways](https://github.com/gltrost/Microbiomics/Images/coeliac_pathways.png)
+
+
 ## 12/10/2020: Almost-Galois Connections
 I'm starting to notice some bugs in my Venn diagram.
 The diagram I created didn't line up perfectly with one I was using as a template, 
 which I thought was find until I started on the next section of the paper today.
 My next step was to take genes of the intersection of the Venn diagram 
 and find out which diseases correlated strongest with that list. This was simple:
-I would go on Enrichr, enter in the gene-list and see the disease that most strongly correlated.
+I would go on Enrichr, enter in the gene-list and see the disease that were most strongly correlated.
 Enrichr would show me the strongest correlated diseases for different databases like OMIM and DisGeNET.
 
 The issue was that the diseases that were most strongly correlated to my genes were not always Coeliac Disease.
@@ -22,7 +55,7 @@ to not even in the top 10 for a given database.
 Is there a way to be more consistent with my findings, or was this the best I could do?
 I will be exploring that more this week.
 
-But I have more questions: Why are we taking the intersetion necesarily? 
+But I have more questions: Why are we taking the intersetion necessarily? 
 Why not take a bi-intersection union,
 like for `{A,B,C}` find `(A n B) U (C n A) U (B n C)` ? 
 Not all genes necesarily correlate to a disease at equal weights. 
