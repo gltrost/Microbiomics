@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 # Those nastly little .DS_Storritses
 .DS_Store
+
+# Logs
+*.log

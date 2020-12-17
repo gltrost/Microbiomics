@@ -5,7 +5,7 @@
 name: "R Test 1" #name of test
 on:
   pull_request:
-    branches: [main]
+    branches: [master]
 jobs:
   build:
     runs-on: ubuntu-18.04
@@ -14,4 +14,7 @@ jobs:
     - uses: r-lib/actions/setup-r@v1
       with:
         r-version: '3.5.3' # The R version to download (if necessary) and use.
+    # - run: sudo apt-get install libcurl4-openssl-dev
+    # - run: Rscript -e 'install.packages(c("tidyr","dplyr","tidyverse","hrbrthemes","tm","proustr","VennDiagram","RColorBrewer","data.table","dplyr","formattable","tidyr"),dependencies=TRUE,repos="http://cran.rstudio.com/")'
     - run: Rscript Code/main.r
+    # - run: Rscript Code/utils/venn-diagram.r
