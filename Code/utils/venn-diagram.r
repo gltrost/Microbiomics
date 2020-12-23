@@ -10,11 +10,10 @@ library(proustr)
 library(VennDiagram)
 library(RColorBrewer)
 
-setwd("~/Microbiomics/Code")
-genecards <- read.csv('./data/genecards_celiac_and_duodenum.csv',TRUE)
-ctd <- read.csv("./data/ctd_celiac_simple.csv",TRUE)
-ncbi <- read.csv("./data/ncbi_celiac.csv",TRUE)
-disgenet <- read.csv("./data/disgenet_celiac_table.csv",TRUE)
+genecards <- read.csv('~/Microbiomics/Code/data/genecards_celiac_and_duodenum.csv',TRUE)
+ctd <- read.csv("~/Microbiomics/Code/data/ctd_celiac_simple.csv",TRUE)
+ncbi <- read.csv("~/Microbiomics/Code/data/ncbi_celiac.csv",TRUE)
+disgenet <- read.csv("~/Microbiomics/Code/data/disgenet_celiac_table.csv",TRUE)
 genecards_new <- genecards[ , c("Gene")]
 ctd_new <- ctd[ , c("Gene")]
 ncbi_new <- ncbi[ , c("Gene")]
