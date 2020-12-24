@@ -38,6 +38,5 @@ jobs:
         remotes::install_cran("covr")
       shell: Rscript {0}
 
-    - name: Run code
-      run: Rscript Code/main.r
-      run: Rscript Code/utils/venn-diagram.r
+    - run: Rscript Code/main.r
+    - run: Rscript Code/utils/venn-diagram.r
