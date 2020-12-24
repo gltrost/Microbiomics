@@ -1,4 +1,5 @@
 # Tests
+# Some of this code is taken from ropenscilabs.github.io
 
 # Test1 : Intro
 
@@ -10,17 +11,33 @@ jobs:
   build:
     runs-on: ubuntu-18.04
     steps:
-    - uses: actions/cache@v2
-      with:
-        path: ~/.local/share/renv
-        key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-renv-
-    - uses: actions/checkout@master
+    - uses: actions/checkout@v2
+
     - uses: r-lib/actions/setup-r@v1
+
+    - uses: r-lib/actions/setup-pandoc@v1
+
+    - name: Query dependencies
+      run: |
+        install.packages('remotes')
+        saveRDS(remotes::dev_package_deps(dependencies = TRUE), ".github/depends.Rds", version = 2)
+        writeLines(sprintf("R-%i.%i", getRversion()$major, getRversion()$minor), ".github/R-version")
+      shell: Rscript {0}
+
+    - name: Cache R packages
+      uses: actions/cache@v2
       with:
-        r-version: '3.5.3' # The R version to download (if necessary) and use.
-    - run: sudo apt-get install libcurl4-openssl-dev
-    - run: Rscript -e 'install.packages(c("tidyr","dplyr","tidyverse","hrbrthemes","tm","proustr","VennDiagram","RColorBrewer","data.table","dplyr","formattable","tidyr"),dependencies=TRUE,repos="http://cran.rstudio.com/")'
-    - run: Rscript Code/main.r
-    - run: Rscript Code/utils/venn-diagram.r
+        path: ${{ env.R_LIBS_USER }}
+        key: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-${{ hashFiles('.github/depends.Rds') }}
+        restore-keys: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-
+
+    - name: Install dependencies
+      run: |
+        install.packages(c("remotes","tidyr","dplyr","tidyverse","hrbrthemes","tm","proustr","VennDiagram","RColorBrewer","data.table","dplyr","formattable","tidyr"))
+        remotes::install_deps(dependencies = TRUE)
+        remotes::install_cran("covr")
+      shell: Rscript {0}
+
+    - name: Run code
+      run: Rscript Code/main.r
+      run: Rscript Code/utils/venn-diagram.r
