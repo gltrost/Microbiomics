@@ -1,6 +1,6 @@
-First Quarter 2021:
+# First Quarter 2021:
 
-#Goal : 
+# Goal : 
 Collect all known studies that directly concern the Coeliac-Migraine connection 
 and update said studies with any new studies, 
 information or statistical and computational tools.
