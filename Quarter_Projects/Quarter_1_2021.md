@@ -1,9 +1,8 @@
 # First Quarter 2021:
 
 # Goal : 
-Collect all known studies that directly concern the Coeliac-Migraine connection 
-and update said studies with any new studies, 
-information or statistical and computational tools.
+Build a library that extends the capabilities of the r microbiome library to the gut brain axis. 
+The library should have at least 
 
 # Part 1 (January) : 
 Collect all known studies that directly concern the Coeliac-Migraine connection and replicate one or two of said studies.
