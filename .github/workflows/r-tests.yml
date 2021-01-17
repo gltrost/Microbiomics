@@ -3,6 +3,7 @@
 # Test1 : Intro
 env:
   RENV_PATHS_ROOT: ~/.local/share/renv
+  R_LIBS_USER: /usr/local/lib/R/site-library
 name: "R Test 1" #name of test
 on:
   pull_request:
