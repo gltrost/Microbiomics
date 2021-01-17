@@ -24,6 +24,8 @@ jobs:
         key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
         restore-keys: |
           ${{ runner.os }}-renv-
+    - name: Permissions
+      run: sudo chmod g+w /usr/local/lib/R/site-library
     - name: Restore packages, https://rstudio.github.io/renv/articles/ci.html#github-actions
       shell: Rscript {0}
       run: |
