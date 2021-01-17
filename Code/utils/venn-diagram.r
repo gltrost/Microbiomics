@@ -10,6 +10,9 @@ library(proustr)
 library(VennDiagram)
 library(RColorBrewer)
 
+hrbrthemes::import_roboto_condensed()
+
+setwd("./Code")
 genecards <- read.csv('./data/genecards_celiac_and_duodenum.csv',TRUE)
 ctd <- read.csv("./data/ctd_celiac_simple.csv",TRUE)
 ncbi <- read.csv("./data/ncbi_celiac.csv",TRUE)
