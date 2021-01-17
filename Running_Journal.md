@@ -10,16 +10,16 @@ This journal is meant to be updated at least once every few weeks.
 So it's been a month of little coding and a lot of reflecting.
 The world of bioinformatics to me looks as complicated as the data it's trying to parse.
 I've decided to refocus my ideas on what to work on
-with the most recent projects-plan, and focusing my efforts on Microbial-Endocrinology
-(mainly the Gut-Brain Axis).
+with the most recent projects-plan
+and focusing my efforts on Microbial-Endocrinology/Gut-Brain Axis (GBA).
 The idea now is to run the following:
-1. See if Bioinformatics tools have been built with Microbial-Endocrinology
+1. See if Bioinformatics tools have been built with the GBA
 being the center research area in focus.
 2. If so, revamp the current tools and improve on the current projects/results/tools.
 If not, be the first one to build such tools by "translating" known Microbiomics-
-Bioinformatics to Microbial-Endocrinology (i.e. taking existing tools and
+Bioinformatics to the GBA (i.e. taking existing tools and
 reapplying them).
-For more information, see Semester_1_2021.md in the Projects folder.
+For more information, see First_Project_2021.md in the Projects folder.
 
 
 ## 12/16/2020: Lost in the Woods
