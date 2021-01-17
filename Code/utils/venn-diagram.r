@@ -10,7 +10,9 @@ library(proustr)
 library(VennDiagram)
 library(RColorBrewer)
 
-setwd("~/Microbiomics/Code")
+hrbrthemes::import_roboto_condensed()
+
+setwd("./Code")
 genecards <- read.csv('./data/genecards_celiac_and_duodenum.csv',TRUE)
 ctd <- read.csv("./data/ctd_celiac_simple.csv",TRUE)
 ncbi <- read.csv("./data/ncbi_celiac.csv",TRUE)
@@ -36,24 +38,24 @@ venn.diagram(
   category.names = c("Genecards" , "CTD", "NCBI", "DISGEN"),
   filename = 'venn_diagram.png',
   output=TRUE,
-  
+
   # Output features
   imagetype="png" ,
-  height = 480 , 
-  width = 680 , 
+  height = 480 ,
+  width = 680 ,
   resolution = 300,
   compression = "lzw",
-  
+
   # Circles
   lwd = 2,
   lty = 'blank',
   fill = myCol,
-  
+
   # Numbers
   cex = .6,
   fontface = "bold",
   fontfamily = "sans",
-  
+
   # Set names
   cat.cex = 0.6,
   cat.fontface = "bold",
@@ -62,4 +64,3 @@ venn.diagram(
   cat.dist = c(0.055, 0.055, 0.085, 0.085),
   cat.fontfamily = "sans",
 )
-

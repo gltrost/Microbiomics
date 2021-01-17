@@ -13,7 +13,7 @@ library(RColorBrewer)
 library(dplyr)
 library(formattable)
 library(tidyr)
-  
+
 
 setwd("~/Microbiomics/Code")
 genecards <- read.csv('./data/genecards_celiac_and_duodenum.csv',TRUE)
@@ -25,7 +25,7 @@ ctd_new <- ctd[ , c("Gene")]
 ncbi_new <- ncbi[ , c("Symbol")]
 disgen_new <- disgenet[ , c("Gene")]
 
- 
+
 intersect_1 <- intersect(genecards_new,ctd_new)
 intersect_2 <- intersect(intersect_1,disgen_new)
 intersect(intersect_2,ncbi_new)
@@ -45,4 +45,3 @@ desgenet_table <- read.csv('./data/DisGeNET_table.csv',TRUE)
 top_ten_disgenet_table <- desgenet_table[1:10,1:8]
 
 formattable(top_ten_disgenet_table)
-
