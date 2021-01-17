@@ -1,7 +1,8 @@
 # Tests
 
 # Test1 : Intro
-
+env:
+  RENV_PATHS_ROOT: ~/.local/share/renv
 name: "R Test 1" #name of test
 on:
   pull_request:
@@ -16,7 +17,14 @@ jobs:
         key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
         restore-keys: |
           ${{ runner.os }}-renv-
-    - name: Restore packages
+    - name: Cache packages, https://rstudio.github.io/renv/articles/ci.html#github-actions
+      uses: actions/cache@v1
+      with:
+        path: ${{ env.RENV_PATHS_ROOT }}
+        key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-renv-
+    - name: Restore packages, https://rstudio.github.io/renv/articles/ci.html#github-actions
       shell: Rscript {0}
       run: |
         if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv")
@@ -24,8 +32,9 @@ jobs:
     - uses: actions/checkout@master
     - uses: r-lib/actions/setup-r@v1
       with:
-        r-version: '3.5.3' # The R version to download (if necessary) and use.
+        r-version: '3.6.0' # The R version to download (if necessary) and use.
     - run: sudo apt-get install libcurl4-openssl-dev
-    - run: Rscript -e 'renv::install(c("tidyr","dplyr","tidyverse","hrbrthemes","tm","proustr","VennDiagram","RColorBrewer","data.table","dplyr","formattable","tidyr"),dependencies=TRUE,repos="http://cran.rstudio.com/")'
     - run: Rscript Code/main.r
     - run: Rscript Code/utils/venn-diagram.r
+env:
+  RENV_PATHS_ROOT: ~/.local/share/renv
