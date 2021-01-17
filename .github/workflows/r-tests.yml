@@ -36,5 +36,3 @@ jobs:
     - run: sudo apt-get install libcurl4-openssl-dev
     - run: Rscript Code/main.r
     - run: Rscript Code/utils/venn-diagram.r
-env:
-  RENV_PATHS_ROOT: ~/.local/share/renv
