@@ -21,7 +21,6 @@ Bioinformatics to the GBA (i.e. taking existing tools and
 reapplying them).
 For more information, see First_Project_2021.md in the Projects folder.
 
-
 ## 12/16/2020: Lost in the Woods
 The first and only info I had read on biology coming into this project was
 a bioinformatics textbook chapter for a primer on molecular biology.
