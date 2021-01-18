@@ -11,8 +11,9 @@ on:
     branches: [master]
   schedule:
     # * is a special character in YAML so you have to quote this string
-    # Run at 1:00 every day
-    - cron: '48 10 * * *'
+    # Squidward: Who wants to run test cases at 3 in the morning?!
+    # This code:
+    - cron: '20 11 * * *'
 jobs:
   build:
     runs-on: ubuntu-20.04
