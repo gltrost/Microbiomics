@@ -1,16 +1,6 @@
 # Tests
 
 # Test1 : Intro
-on:
-  workflow_dispatch:
-    inputs:
-      logLevel:
-        description: 'Log level'
-        required: true
-        default: 'warning'
-      tags:
-        description: 'Test scenario tags'
-
 env:
   RENV_PATHS_ROOT: ~/.local/share/renv
 name: "R Test 1" #name of test
