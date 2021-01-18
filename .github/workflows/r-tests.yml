@@ -13,7 +13,7 @@ on:
     # * is a special character in YAML so you have to quote this string
     # Squidward: Who wants to run test cases at 3 in the morning?!
     # This code:
-    - cron: '30 11 * * *'
+    - cron: '0 3 * * *'
 jobs:
   build:
     runs-on: ubuntu-20.04
