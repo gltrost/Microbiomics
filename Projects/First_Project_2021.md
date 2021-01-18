@@ -1,4 +1,4 @@
-# First Semester 2021:
+# First Project 2021:
 
 ## Goal :
 Tackle OTU-testing for Microbial-Endocrinology data,
