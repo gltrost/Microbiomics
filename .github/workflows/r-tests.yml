@@ -5,8 +5,15 @@ env:
   RENV_PATHS_ROOT: ~/.local/share/renv
 name: "R Test 1" #name of test
 on:
+  push:
+    branches: [master]
   pull_request:
     branches: [master]
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    # Squidward: Who wants to run test cases at 3 in the morning?!
+    # This code:
+    - cron: '30 11 * * *'
 jobs:
   build:
     runs-on: ubuntu-20.04
