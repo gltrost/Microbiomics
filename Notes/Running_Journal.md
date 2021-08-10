@@ -6,6 +6,25 @@ This journal is to show my changing and developing thoughts with respect to my M
 The idea of this markdown file is to keep a record of my general knowledge, questions, and hypotheses which are bound to change and grow as the project develops.
 This journal is meant to be updated at least once every few weeks.
 
+## 7/28/2021
+Clearly from the date jump, it's been a while since I worked on this repo. 
+I've taken some classes in bioinformatics and neuroscience
+go gain perspective on the area of research. 
+After writing a literature review on the connections between CD and neurological comorbidities,
+I'm inspired to write some code to help me look at the data
+in a more robust and mathematical way. 
+Today I start a new branch of my project by added code to help with my research paper.
+The idea is to write code to piece together different studies into one graph.
+For example,
+Study1 = "CD causes immune response with probability A"
+Study2 = "immune response causes neurodegeneration with probability B"
+Then the code will produce a graph like
+CD --A--> Immune-Response --B--> Neurodegeneration
+ |                                  |
+ |------------(AxB)-----------------|
+The branch is exploratory, though I very much think it can help with writing 
+more informative and accurate literature reviews.
+
 ## 1/17/2020:
 So it's been a month of little coding and a lot of reflecting.
 The world of bioinformatics to me looks as complicated as the data it's trying to parse.
