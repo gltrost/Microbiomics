@@ -6,7 +6,17 @@ This journal is to show my changing and developing thoughts with respect to my M
 The idea of this markdown file is to keep a record of my general knowledge, questions, and hypotheses which are bound to change and grow as the project develops.
 This journal is meant to be updated at least once every few weeks.
 
-## 1/17/2020:
+## 11/12/2021:
+It's been a while since I've used this repository. 
+I plan on doing some remodeling and planning.
+Firstly, I want to create a perfect invironment to look at microbiomics
+with the most up-to-date technology.
+This means integrating and using QIIME-2 to it's fullest potential.
+From there, I will grow the repo until it can handle more interesting 
+projects.
+
+
+## 1/17/2021:
 So it's been a month of little coding and a lot of reflecting.
 The world of bioinformatics to me looks as complicated as the data it's trying to parse.
 I've decided to refocus my ideas on what to work on
